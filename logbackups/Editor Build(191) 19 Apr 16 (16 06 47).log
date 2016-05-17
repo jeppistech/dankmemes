@@ -1,0 +1,2379 @@
+BackupNameAttachment=" Build(191) 19 Apr 16 (16 06 47)"  -- used by backup system
+Log Started at Tue Apr 19 16:06:47 2016
+Built on Mar 18 2016 10:51:44
+Running 64 bit Windows version
+Executable: C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\Sandbox.exe
+FileVersion: 5.0.0.191
+ProductVersion: 5.0.0.191
+Added MOD directory <%engineroot%> to CryPak
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 8
+Number of available logical processors: 8
+Total number of system cores: 4
+Number of cores available to process: 4
+ 
+Processor 0:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+[Error] [CVARS]: [DUPLICATE] CXConsole::AddCommand(): console command [hmd_recenter_pose] is already registered
+Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\system.cfg)
+<16:06:47> OnSysSpecChange(4)
+<16:06:47> [Warning] Config file VeryHighSpec.cfg not found!
+<16:06:47> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<16:06:47> [Warning] Config file game.cfg not found!
+<16:06:47> Loading Config file project.cfg (project.cfg)
+<16:06:47> GameDir: Assets
+<16:06:47> Loading Config file game.cfg (assets\game.cfg)
+<16:06:48> creating CVarGroups from directory 'assets/Config/CVarGroups' ...
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_full.cfg (assets\config\cvargroups\sys_spec_full.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_gameeffects.cfg (assets\config\cvargroups\sys_spec_gameeffects.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_light.cfg (assets\config\cvargroups\sys_spec_light.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_objectdetail.cfg (assets\config\cvargroups\sys_spec_objectdetail.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_particles.cfg (assets\config\cvargroups\sys_spec_particles.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_physics.cfg (assets\config\cvargroups\sys_spec_physics.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_postprocessing.cfg (assets\config\cvargroups\sys_spec_postprocessing.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_quality.cfg (assets\config\cvargroups\sys_spec_quality.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_shading.cfg (assets\config\cvargroups\sys_spec_shading.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_shadows.cfg (assets\config\cvargroups\sys_spec_shadows.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_sound.cfg (assets\config\cvargroups\sys_spec_sound.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_texture.cfg (assets\config\cvargroups\sys_spec_texture.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_textureresolution.cfg (assets\config\cvargroups\sys_spec_textureresolution.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_volumetriceffects.cfg (assets\config\cvargroups\sys_spec_volumetriceffects.cfg)
+<16:06:48> Loading Config file assets/Config/CVarGroups/sys_spec_water.cfg (assets\config\cvargroups\sys_spec_water.cfg)
+<16:06:48> creating CVarGroups from directory 'Engine/Config/CVarGroups' ...
+<16:06:48> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<16:06:48> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_sandbox.thread_config)  
+<16:06:48> Windows 10 64 bit (build 10.0.10240)
+<16:06:48> User name: "Johannes"
+<16:06:48> System language: Finnish
+<16:06:48> Windows Directory: "D:\WINDOWS"
+<16:06:48> Local time is 16:06:48 04/19/16, system running for 1413 minutes
+<16:06:48> 16331MB physical memory installed, 11721MB available, 134217727MB virtual memory installed, 28 percent of memory in use
+<16:06:48> PageFile usage: 46MB, Working Set: 54MB, Peak PageFile usage: 46MB,
+<16:06:48> Current display mode is 1920x1080x32, (Unknown graphics card)
+<16:06:48> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<16:06:48> --------------------------------------------------------------------------------
+<16:06:48> [Warning] Config file %USER%/game.cfg not found!
+<16:06:48> Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\system.cfg)
+<16:06:48> OnSysSpecChange(4)
+<16:06:48> Loading Config file VeryHighSpec.cfg (assets\config\veryhighspec.cfg)
+<16:06:48> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<16:06:48> Loading Config file game.cfg (assets\game.cfg)
+<16:06:48> Loading Config file project.cfg (project.cfg)
+<16:06:48> [Warning] Config file user.cfg not found!
+<16:06:48> Stream Engine Initialization
+<16:06:48> GameName: CE# SampleApp
+<16:06:48> BuildTime: Mar 18 2016 10:51:44
+<16:06:48> Physics initialization
+<16:06:48> Initializing CryPhysics...
+<16:06:48> Initializing CryPhysics done, MemUsage=984Kb
+<16:06:48> [Warning] Cannot open Pak file assets\localization\english_xml.pak
+<16:06:48> Localized language content(english) not available or modified from the original installation.
+<16:06:48> [Warning] Cannot open Pak file assets\localization\english.pak
+<16:06:48> Localized language content(english) not available or modified from the original installation.
+<16:06:48> [Warning] Cannot open Pak file assets\localization\english.pak
+<16:06:48> Localized language content(english) not available or modified from the original installation.
+<16:06:48> [Error] <Localization> No localization files found!
+<16:06:48> <Audio>: AudioSystem initialization
+<16:06:48> Initializing CryAudioSystem...
+<16:06:48> Initializing CryAudioImplWwise...
+<16:06:48> <Audio> <0.943>: CryAudioImplWwise loaded
+<16:06:48> Initializing CryAudioImplWwise done, MemUsage=4712Kb
+<16:06:48> Initializing CryAudioSystem done, MemUsage=5464Kb
+<16:06:48> Renderer initialization
+<16:06:48> Initializing CryRenderD3D11...
+<16:06:48> CRenderer sizeof(Vec2f16)=4 sizeof(Vec3f16)=8
+<16:06:48> Initializing CryRenderD3D11 done, MemUsage=3824Kb
+<16:06:48> Initializing Direct3D and creating game window:
+<16:06:48> D3DX_SDK_VERSION = <UNDEFINED>
+<16:06:48> Direct3D driver is creating...
+<16:06:48> Crytek Direct3D driver version 2.00 (Mar 18 2016 <10:51:35>)
+<16:06:48> Creating window called 'CE# SampleApp' (1280x720)
+<16:06:48> D3D Adapter: Description: AMD Radeon R9 200 Series
+<16:06:48> D3D Adapter: Driver version (UMD): 8.17.10.1452
+<16:06:48> D3D Adapter: VendorId = 0x1002
+<16:06:48> D3D Adapter: DeviceId = 0x67B0
+<16:06:48> D3D Adapter: SubSysId = 0x30801462
+<16:06:48> D3D Adapter: Revision = 0
+<16:06:48> D3D Detected: AMD video card
+<16:06:48> Active GPUs: 1
+<16:06:48> Using pixel texture formats:
+<16:06:48>   R8G8B8A8S, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R8G8B8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<16:06:48>   A8, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R8, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R8S, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R16, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<16:06:48>   R16F, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R32F, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<16:06:48>   R8G8, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R8G8S, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R16G16, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R16G16S, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R16G16F, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R11G11B10F, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R10G10B10A2, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R16G16B16A16, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R16G16B16A16S, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R16G16B16A16F, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   R32G32B32A32F, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   BC1, mips, sRGB, gather
+<16:06:48>   BC2, mips, sRGB, gather
+<16:06:48>   BC3, mips, sRGB, gather
+<16:06:48>   BC4, mips, gather
+<16:06:48>   BC4S, mips, gather
+<16:06:48>   BC5, mips, gather
+<16:06:48>   BC5S, mips, gather
+<16:06:48>   BC6UH, mips, gather
+<16:06:48>   BC6SH, mips, gather
+<16:06:48>   BC7, mips, sRGB, gather
+<16:06:48>   R9G9B9E5, mips, gather
+<16:06:48>   R32FX8T, mips, gather (comparable)
+<16:06:48>   R32T, mips
+<16:06:48>   R24G8T, mips
+<16:06:48>   R16T, mips
+<16:06:48>   B5G6R5, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   B5G5R5, mips (autogen), blend, RT (multi-sampled), gather
+<16:06:48>   B8G8R8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<16:06:48>   B8G8R8X8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<16:06:48>  Renderer HDR_Scalar: R32F
+<16:06:48>  ****** D3D11 CryRender Stats ******
+<16:06:48>  Driver description: AMD Radeon R9 200 Series
+<16:06:48>  Feature level: DirectX 11.0
+<16:06:48>  Full stats: 
+<16:06:48>  Rasterizer: Hardware
+<16:06:48>  Current Resolution: 1280x720x32 Windowed
+<16:06:48>  HDR Rendering: FP16
+<16:06:48>  Occlusion queries: Supported
+<16:06:48>  Geometry instancing: Supported
+<16:06:48>  NormalMaps compression : Supported
+<16:06:48>  Gamma control: Hardware
+<16:06:48>  Vertex Shaders version 4.0
+<16:06:48>  Pixel Shaders version 4.0
+<16:06:48>  Used GeomInstancingThreshold is 2
+<16:06:48>  Shader model usage: 'SM.5.0'
+<16:06:48>  *****************************************
+<16:06:48>  
+<16:06:48> Init Shaders
+<16:06:48> Flushing pended shaders...
+<16:06:48> Finished flushing pended shaders...
+<16:06:48> Flushing pended shaders...
+<16:06:48> Finished flushing pended shaders...
+<16:06:48>  General shader quality: VeryHigh
+<16:06:48>  Metal shader quality: VeryHigh
+<16:06:48>  Glass shader quality: VeryHigh
+<16:06:48>  Vegetation shader quality: VeryHigh
+<16:06:48>  Ice shader quality: VeryHigh
+<16:06:48>  Terrain shader quality: VeryHigh
+<16:06:48>  Shadow shader quality: VeryHigh
+<16:06:48>  Water shader quality: High
+<16:06:48>  FX shader quality: VeryHigh
+<16:06:48>  PostProcess shader quality: VeryHigh
+<16:06:48>  HDR shader quality: VeryHigh
+<16:06:48>  Sky shader quality: VeryHigh
+<16:06:48> Render quality: VeryHigh
+<16:06:48> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<16:06:48> Init textures management (4074 Mb of video memory is available)...
+<16:06:48>   Enabling of textures streaming...
+<16:06:48>   Using 1536 Mb of textures pool for streaming...
+<16:06:48>   Video textures: Atlas clouds max size: 32 Mb
+<16:06:48>   Video textures: Atlas sprites max size: 32 Mb
+<16:06:48>   Video textures: Dynamic managed max size: 80 Mb
+<16:06:48>   Reloading all textures...
+<16:06:48>   Finished reloading textures...
+<16:06:48>   Finished initializing textures streaming...
+<16:06:49> [Renderer] A display device has been connected to the system
+<16:06:49> Initialized hardware mouse (game is allowed to confine mouse to window)
+<16:06:49> Using Scaleform GFx 3.3.94
+<16:06:49>   Using dynamic pool
+<16:06:50> Font initialization
+<16:06:50> Initializing CryFont...
+<16:06:50> Using FreeType 2.5.5
+<16:06:50> Initializing CryFont done, MemUsage=260Kb
+<16:06:50> *** Init system render resources ***
+<16:06:50> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<16:06:50> Allocating shadow map cache 4214 x 4214: 33.87 MB
+<16:06:50> Network initialization
+<16:06:50> Initializing CryNetwork...
+<16:06:50> [LagProfiles] Could not load "". 6 default profiles activated.
+<16:06:50> [net] Socket IO management: External [iocp], Internal [iocp]
+<16:06:50> network hostname: Johannes-PC
+<16:06:50>   ip:192.168.1.9
+<16:06:50> [Network Version]: PROFILE DEVELOPMENT BUILD
+<16:06:50> Initializing CryNetwork done, MemUsage=2396Kb
+<16:06:50> Online initialization
+<16:06:50> Initializing CryOnline...
+<16:06:50> DLL Failed to load, error code: 7E
+<16:06:50> Lobby initialization
+<16:06:50> Initializing CryLobby...
+<16:06:50> Initializing CryLobby done, MemUsage=448Kb
+<16:06:50> MovieSystem initialization
+<16:06:50> Initializing CryMovie...
+<16:06:50> Initializing CryMovie done, MemUsage=584Kb
+<16:06:50> Console initialization
+<16:06:50> Time initialization
+<16:06:50> Input initialization
+<16:06:50> Initializing CryInput...
+<16:06:50> Initializing DirectInput
+<16:06:50> Initializing Keyboard
+<16:06:50> Initializing mouse
+<16:06:50> Initializing CryInput done, MemUsage=924Kb
+<16:06:50> AI initialization
+<16:06:50> Initializing CryAISystem...
+<16:06:50> Initializing CryAISystem done, MemUsage=1280Kb
+<16:06:50>  
+<16:06:50> con_debug=0 [  ]
+<16:06:50> con_display_last_messages=0 [  ]
+<16:06:50> con_line_buffer_size=1000 [  ]
+<16:06:50> con_restricted=0 [ RESTRICTEDMODE ]
+<16:06:50> con_showonload=0 [  ]
+<16:06:50>  
+<16:06:50> con_debug=0 [  ]
+<16:06:50> con_display_last_messages=0 [  ]
+<16:06:50> con_line_buffer_size=1000 [  ]
+<16:06:50> con_restricted=0 [ RESTRICTEDMODE ]
+<16:06:50> con_showonload=0 [  ]
+<16:06:50>  
+<16:06:50> con_debug=0 [  ]
+<16:06:50>  
+<16:06:50> con_debug=0 [  ]
+<16:06:50> Initializing Animation System
+<16:06:50> Initializing CryAnimation...
+<16:06:50> Initializing CryAnimation done, MemUsage=2188Kb
+<16:06:50> Initializing 3D Engine
+<16:06:50> Initializing Cry3DEngine...
+<16:06:50> Sky light: Optical lookup tables loaded off disc.
+<16:06:50> Initializing Cry3DEngine done, MemUsage=6728Kb
+<16:06:50> Script System Initialization
+<16:06:50> Initializing CryScriptSystem...
+<16:06:51> Initializing CryScriptSystem done, MemUsage=1132Kb
+<16:06:51> Entity system initialization
+<16:06:51> Initializing CryEntitySystem...
+<16:06:51> Initializing CryEntitySystem done, MemUsage=2316Kb
+<16:06:51> LiveCreate initialization
+<16:06:51> LiveCreateHost not created, using NULL implementation.
+<16:06:51> CryMonoBridge initialization
+<16:06:51> Initializing CryMonoBridge...
+<16:06:51> Initializing CryMonoBridge done, MemUsage=828Kb
+<16:06:51> Initializing AI System
+<16:06:51> AI: [AISYSTEM] Initialization started.
+<16:06:51> [Warning] XML reader: Can't open file (Scripts/AI/Communication/CommunicationSystemConfiguration.xml)
+<16:06:51> [Warning] AI: Failed to open XML file 'Scripts/AI/Communication/CommunicationSystemConfiguration.xml'...
+<16:06:51> [Warning] AI: Unexpected tag 'AutoGenerateCommunication' found at line 276 while parsing Communication XML 'Scripts/AI/Communication/basiccommunications.xml'...
+<16:06:51> [Warning] [Lua Error] Failed to execute file @scripts/ai/characters/aicharacter.lua: (null) [File=@scripts/ai/characters/aicharacter.lua]
+<16:06:51> AI: Loaded 54 AI Behaviors in 0.07s...
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<16:06:51> Registering CentralInterestManager with EntitySystem
+<16:06:51> AI: [AISYSTEM] Initialization finished.
+<16:06:51> Initializing additional systems
+<16:06:51> Dynamic Response System initialization
+<16:06:51> Initializing CryDynamicResponseSystem.dll...
+<16:06:51> Initializing CryDynamicResponseSystem.dll done, MemUsage=492Kb
+<16:06:51> [Warning] Could not load dialog file assets/libs/DynamicResponseSystem/DialogLines/dialoglines.dialog
+<16:06:51> OnSysSpecChange(4)
+<16:06:51> Loading Config file VeryHighSpec.cfg (assets\config\veryhighspec.cfg)
+<16:06:51> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<16:06:51> Loading Config file game.cfg (assets\game.cfg)
+<16:06:51> Current Language: Finnish 
+<16:06:51> Windows 10 10.0 (D:\WINDOWS)
+<16:06:51> Local time is 16:06:51 04/19/16, system running for 1413 minutes
+<16:06:51> 16331MB phys. memory installed, 24867MB paging available
+<16:06:51> Current display mode is 1920x1080x32, (Unknown graphics card)
+<16:06:51> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<16:06:51> --------------------------------------------------------------------------------
+<16:06:52> sys_dll_game = Game
+<16:06:52> sys_game_folder = Assets
+<16:06:52> sys_localization_folder = localization
+<16:06:52> [Mono] Initialize Mono Runtime . . . 
+<16:06:52> [Mono] Initialization done.
+<16:06:52> Ending game context...
+<16:06:52> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<16:06:52> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<16:06:52> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<16:06:52> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<16:06:52> <Lua> Loading AIAlertness.lua
+<16:06:52> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:52>       > (null) ([C]: -1)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:52> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:06:52> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<16:06:52>     > ReloadScript, ([C]: -1)
+<16:06:52>     > (null) (scripts/entities/physics/animobject.lua: 1)
+<16:06:52>       > (null) ([C]: -1)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<16:06:52>     > ReloadScript, ([C]: -1)
+<16:06:52>     > (null) (scripts/entities/physics/animobject.lua: 1)
+<16:06:52> [Warning] [Lua Error] Failed to execute file @scripts/entities/physics/basicentity.lua: (null) [File=@scripts/entities/physics/basicentity.lua]
+<16:06:52> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<16:06:52>       > (null) ([C]: -1)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<16:06:52> [Warning] [Lua Error] Failed to execute file @scripts/entities/physics/basicentity.lua: (null) [File=@scripts/entities/physics/basicentity.lua]
+<16:06:52> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:52>       > (null) ([C]: -1)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:52> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:06:52> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/vehicles/destroyedvehicle.lua: 33)
+<16:06:52>       > (null) ([C]: -1)
+<16:06:52>     > pairs, ([C]: -1)
+<16:06:52>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:52>     > (null) (scripts/entities/vehicles/destroyedvehicle.lua: 33)
+<16:06:52> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/destroyedvehicle.lua: (null) [File=@scripts/entities/vehicles/destroyedvehicle.lua]
+<16:06:53> [Warning] [Lua Error] scripts/entities/multiplayer/forbiddenarea.lua:47: attempt to index global 'GameAudio' (a nil value)
+<16:06:53>     > (null) (scripts/entities/multiplayer/forbiddenarea.lua: 47)
+<16:06:53>       > (null) ([C]: -1)
+<16:06:53>     > (null) (scripts/entities/multiplayer/forbiddenarea.lua: 47)
+<16:06:53> [Warning] [Lua Error] Failed to execute file @scripts/entities/multiplayer/forbiddenarea.lua: (null) [File=@scripts/entities/multiplayer/forbiddenarea.lua]
+<16:06:53> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:53>       > (null) ([C]: -1)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:53> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:06:53> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:53>       > (null) ([C]: -1)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:53> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:06:53> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<16:06:53>     > ReloadScript, ([C]: -1)
+<16:06:53>     > (null) (scripts/entities/physics/rigidbodyex.lua: 1)
+<16:06:53>       > (null) ([C]: -1)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<16:06:53>     > ReloadScript, ([C]: -1)
+<16:06:53>     > (null) (scripts/entities/physics/rigidbodyex.lua: 1)
+<16:06:53> [Warning] [Lua Error] Failed to execute file @scripts/entities/physics/basicentity.lua: (null) [File=@scripts/entities/physics/basicentity.lua]
+<16:06:53> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<16:06:53>     > ReloadScript, ([C]: -1)
+<16:06:53>     > (null) (scripts/entities/lights/rigidbodylight.lua: 1)
+<16:06:53>       > (null) ([C]: -1)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<16:06:53>     > ReloadScript, ([C]: -1)
+<16:06:53>     > (null) (scripts/entities/lights/rigidbodylight.lua: 1)
+<16:06:53> [Warning] [Lua Error] Failed to execute file @scripts/entities/physics/basicentity.lua: (null) [File=@scripts/entities/physics/basicentity.lua]
+<16:06:53> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:53>       > (null) ([C]: -1)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:53> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:06:53> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:53>       > (null) ([C]: -1)
+<16:06:53>     > pairs, ([C]: -1)
+<16:06:53>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:06:53>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:06:53> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:06:53> Initializing default materials...
+<16:06:53> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 199)
+<16:06:53> [Error] [flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 190)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 342)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 82)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 1)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '1' of type 'UI:Events:Dialogs:ShowDialogAsset' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (0/28 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 6)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '6' of type 'Game:WeaponSensor' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (4/37 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 4)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '4' of type 'Game:WeaponSensor' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (0/14 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 14)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '14' of type 'Minimap:PlayerPos' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (0/40 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 60)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '60' of type 'Sound:PlaySoundUI' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (2/20 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Trying to link an invalid node
+<16:06:54> [Warning] [flow] Trying to link an invalid node
+<16:06:54> [Warning] [flow] Trying to link an invalid node
+<16:06:54> [Warning] [flow] Trying to link an invalid node
+<16:06:54> [Warning] [flow] Trying to link an invalid node
+<16:06:54> [Error] [flow] <noname> : Can't link edge <201,IsX360> to <203,Set> - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all edges (33/42 edges) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 102)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '102' of type 'UI:Functions:Settings:GetCurrGameSettings' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (32/46 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 7)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '7' of type 'UI:Functions:Settings:GetResolutionList' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (4/61 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 38)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '38' of type 'UI:Events:Settings:OnLevelItem' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (5/65 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 390)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '390' of type 'Multiplayer:GameOption' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (101/134 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 100)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '100' of type 'Debug:ExecuteString' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (24/58 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 101)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '101' of type 'UI:Functions:MP:GetPlayerName' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (12/54 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 172)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '172' of type 'UI:Functions:LobbyMP:LeaveGame' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (15/51 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 172)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '172' of type 'UI:Functions:LobbyMP:LeaveGame' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (12/27 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 32)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '32' of type 'UI:Functions:Game:ExitGame' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (12/47 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 98)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '98' of type 'UI:Functions:LobbyMP:SetMultiplayer' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (12/22 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 243)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '243' of type 'UI:Functions:MP:GetPlayerName' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (21/37 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 95)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '95' of type 'UI:Functions:MP:SetPlayerName' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (12/23 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 31)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '31' of type 'UI:Functions:Game:LoadLevel' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (4/26 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 12)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '12' of type 'UI:Functions:Settings:SetSound' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (7/42 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 7)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '7' of type 'UI:Functions:Settings:GetResolutionList' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (4/66 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 12)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '12' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (4/53 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 1)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '1' of type 'UI:Events:MP:PlayerJoined' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (0/30 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 39)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '39' of type 'HUD:MissionStateListener' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (0/32 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 78)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '78' of type 'HUD:BattleAreaListener' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (0/16 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 25)
+<16:06:54> [Error] [flow] <noname> : Failed to create node '25' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<16:06:54> [Error] [flow] <noname> : Did not load all nodes (11/67 nodes) - FLOWGRAPH DISCARDED
+<16:06:54> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<16:06:54> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<16:06:54> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<16:06:54> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<16:06:54> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<16:06:54> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<16:06:54> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<16:06:54> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<16:06:54> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<16:06:54> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<16:06:54> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<16:06:54> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<16:06:54> [Mono] Load Library: CryEngine.Launcher
+<16:06:54> [Mono] Launcher Initializing...
+<16:06:54> [Mono] Loaded Libraries:
+<16:06:54> [Mono]   mscorlib
+<16:06:54> [Mono]   CryEngine.Launcher
+<16:06:54> [Mono]   CryEngine.Common (In Memory)
+<16:06:54> [Mono]   CryEngine.Core
+<16:06:54> [Mono]   System
+<16:06:54> [Mono]   System.Core
+<16:06:55> [MFX] Loading FXLib 'bulletimpacts' ...
+<16:06:55> [MFX] Loading FXLib 'collisions' ...
+<16:06:55> [MFX] Loading FXLib 'destructibles' ...
+<16:06:55> [MFX] Loading FXLib 'foley' ...
+<16:06:55> [MFX] Loading FXLib 'foley_grunt' ...
+<16:06:55> [MFX] Loading FXLib 'foley_player' ...
+<16:06:55> [MFX] Loading FXLib 'footstep_grunt' ...
+<16:06:55> [MFX] Loading FXLib 'footstep_player' ...
+<16:06:55> [MFX] Loading FXLib 'footsteps' ...
+<16:06:55> [MFX] Loading FXLib 'player_fx' ...
+<16:06:55> [MFX] Loading FXLib 'tornado' ...
+<16:06:55> [MFX] Loading FXLib 'vegetation' ...
+<16:06:55> [MFX] Loading FXLib 'vehicles' ...
+<16:06:55> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 199)
+<16:06:55> [Error] [flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<16:06:55> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<16:06:55> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:55> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 190)
+<16:06:55> [Error] [flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<16:06:55> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<16:06:55> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:55> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 342)
+<16:06:55> [Error] [flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<16:06:55> [Error] [flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED
+<16:06:55> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed
+<16:06:55> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 82)
+<16:06:55> [Error] [flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<16:06:55> [Error] [flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED
+<16:06:55> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:55> -- FAIL (strcmpi( src.wrapped.c_str(), dst.wrapped.c_str()) == 0): [CryAction]:SCRCRef_Serialization_StoreString_Empty (d:\jk\mastercd13_gamesdk_release\bintemp\uber_files\cryaction\..\..\..\Code\CryEngine\CryAction\Mannequin\Tests\Test_CRCRef.cpp:59)
+<16:06:55> UnitTesting Finished Tests: 55 Succeeded: 54, Failed: 1, Time: 86.98 ms
+<16:06:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<16:06:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<16:06:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<16:06:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<16:06:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<16:06:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<16:06:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<16:06:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<16:06:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<16:06:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<16:06:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<16:06:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<16:06:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<16:06:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<16:06:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<16:06:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<16:06:55> Loading Config file singleplayer.cfg (assets\config\singleplayer.cfg)
+<16:06:56> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 199)
+<16:06:56> [Error] [flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<16:06:56> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<16:06:56> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:56> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 190)
+<16:06:56> [Error] [flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<16:06:56> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<16:06:56> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:56> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 342)
+<16:06:56> [Error] [flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<16:06:56> [Error] [flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED
+<16:06:56> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed
+<16:06:56> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 82)
+<16:06:56> [Error] [flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<16:06:56> [Error] [flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED
+<16:06:56> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:06:56> AI: [AISYSTEM] Initializing AI Actions.
+<16:06:56> AI: [AISYSTEM] Initializing Smart Objects.
+<16:06:56> OnSysSpecChange(2)
+<16:06:56> Loading Config file MedSpec.cfg (assets\config\medspec.cfg)
+<16:06:56> Flushing pended shaders...
+<16:06:56> Finished flushing pended shaders...
+<16:06:57> Flushing pended shaders...
+<16:06:57> Finished flushing pended shaders...
+<16:06:57> Allocating shadow map cache 2810 x 2810: 15.06 MB
+<16:06:57> Allocating shadow map cache 6324 x 6324: 76.28 MB
+<16:06:57> Allocating shadow map cache 4214 x 4214: 33.87 MB
+<16:06:57> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<16:06:57> Loading Config file game.cfg (assets\game.cfg)
+<16:06:57> Unloading all previous plugins
+<16:06:57> Loading plugins...
+<16:06:57> Successfully loaded plugin 'CryDesigner', version '1' (GUID: )
+<16:06:57> Successfully loaded plugin 'EditorPhysics', version '1' (GUID: (null))
+<16:06:57> [Warning] XML reader: Can't open file (audio\ace\config.xml)
+<16:06:57> Successfully loaded plugin 'AudioControlsEditor', version '1' (GUID: {DFA4AFF7-2C70-4B29-B736-GRH00040314})
+<16:06:57> Successfully loaded plugin 'QtConsole', version '1' (GUID: {B0E9DE33-C2E3-4506-8B63-B023327156BB})
+<16:06:57> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplFmod.dll' factory pointer (is it a Sandbox plugin?)
+<16:06:57> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplSDLMixer.dll' factory pointer (is it a Sandbox plugin?)
+<16:06:57> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplWwise.dll' factory pointer (is it a Sandbox plugin?)
+<16:06:57> Successfully loaded plugin 'DynamicResponseSystemEditor', version '1' (GUID: {DFA4AFF7-2C70-4B29-B736-GRH00290515})
+<16:06:57> Successfully loaded plugin 'EditorEnvironment', version '1' (GUID: {800BBFA9-9895-4E81-AB02-7425FD4F5554})
+<16:06:57> Successfully loaded plugin 'ParticleLibrary', version '1' (GUID: (null))
+<16:06:57> Successfully loaded plugin 'TrackView', version '1' (GUID: {7C4EB160-30AC-44C1-92D6-6D4B74B2E96B})
+<16:06:57> FBX plugin: CreatePluginInstance
+<16:06:57> Successfully loaded plugin 'FBX Exporter', version '1' (GUID: {6CD02F95-362C-4ADF-8BAE-87C6342A8027})
+<16:06:57> Successfully loaded plugin 'MeshImporter', version '1' (GUID: {4F68F679-39AD-4BB4-B5E2-8A8DD3020DC1})
+<16:06:57> Started game resource files indexing...
+<16:06:57> [CONSOLE] Executing console command 'exec autoexec.cfg'
+<16:06:57> Executing console batch file (try game,config,root): "autoexec.cfg" not found!
+<16:06:57> [CONSOLE] Executing console command 'exec editor.cfg'
+<16:06:57> Executing console batch file (try game,config,root): "editor.cfg" found in editor.cfg ...
+<16:06:57> ed_MissingAssetResolver=0 [  ]
+<16:06:57> ca_UseIMG_CAF=0 [  ]
+<16:06:57> drs_dialogSubtitles=1 [  ]
+<16:06:57> [CONSOLE] Executing console command 'exec user.cfg'
+<16:06:57> Executing console batch file (try game,config,root): "user.cfg" not found!
+<16:06:57> Loading editor preferences from: D:/Users/Johannes/AppData/Roaming/Crytek/CRYENGINE/Settings.ini
+<16:06:58> [Warning] Command 'ui_action.actionSelection_Mask' is not registered.
+<16:06:58> [Warning] Command 'ui_action.actionAIPoint_Pick_Link' is not registered.
+<16:06:58> [Warning] Command 'ui_action.actionAIPoint_Pick_Impass_Link' is not registered.
+<16:06:58> [Warning] Command 'general.fullscreen' is not registered.
+<16:06:58> [Warning] Command 'ui_action.actionTerrain_Flatten' is not registered.
+<16:06:58> [Warning] Command 'ui_action.actionTerrain_Smooth' is not registered.
+<16:06:58> [Warning] Command 'ui_action.actionEnable_file_change_monitoring' is not registered.
+<16:06:58> [Warning] Command 'general.set_config_spec 4' is not registered.
+<16:06:58> [Warning] Command 'general.set_config_spec 3' is not registered.
+<16:06:58> [Warning] Command 'general.set_config_spec 2' is not registered.
+<16:06:58> [Warning] Command 'general.set_config_spec 1' is not registered.
+<16:06:58> [Warning] Command 'general.set_config_spec 5' is not registered.
+<16:06:58> [Warning] Command 'general.set_config_spec 6' is not registered.
+<16:06:58> [Warning] Command 'general.set_config_spec 0' is not registered.
+<16:06:58> [Warning] XML reader: Can't open file (assets\audio\wwise\SoundbanksInfo.xml)
+<16:06:58> Adding for file change notifications: 'assets\'
+<16:06:58> Adding for file change notifications: '.\assets\'
+<16:06:58> Adding for file change notifications: '.\Editor\'
+<16:06:59> Flushing pended shaders...
+<16:06:59> Finished flushing pended shaders...
+<16:06:59> Flushing pended shaders...
+<16:06:59> Finished flushing pended shaders...
+<16:06:59> Flushing pended shaders...
+<16:06:59> Finished flushing pended shaders...
+<16:06:59> Flushing pended shaders...
+<16:06:59> Finished flushing pended shaders...
+<16:06:59> Remote console listening on: 4600
+<16:07:01> Task Completed: Update Local Animations
+<16:07:03> general.open
+<16:07:04> general.open_level_no_prompt 'Assets/Levels/applegate_lake/applegate_lake.cry'
+<16:07:04> Opening document Assets/Levels/applegate_lake/applegate_lake.cry
+<16:07:05> Loading from Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:07:05> Ending game context...
+<16:07:05> Destroying CActionGame instance 000000900AE61030 (level="")
+<16:07:05> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<16:07:05> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<16:07:05> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<16:07:05> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<16:07:05> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<16:07:05> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<16:07:05> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<16:07:05> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<16:07:05> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<16:07:05> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<16:07:05> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<16:07:05> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<16:07:05> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<16:07:05> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<16:07:05> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<16:07:05> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<16:07:05> Loading Config file singleplayer.cfg (assets\config\singleplayer.cfg)
+<16:07:07> Loading missions...
+<16:07:07> ---- Start: Load Terrain
+<16:07:07> CRGBLayer::AllocateTiles 4x4 tiles 512 => 2048x2048 texture
+<16:07:07> allocating editor height map (1024x1024)*4
+<16:07:07> ---- Start: Loading Surface Types
+<16:07:07> ---- End: Loading Surface Types (0 seconds)
+<16:07:07> ---- Start: Loading Terrain Layers Info
+<16:07:07> Loading layer settings...
+<16:07:07> Loading layer texture (engineassets/textures/grey.dds)...
+<16:07:07>   loaded editor layer 0  name='Grass' LayerID=0
+<16:07:07> Loading layer texture (textures/defaults/grey.dds)...
+<16:07:07>   loaded editor layer 1  name='Rock' LayerID=1
+<16:07:07> Loading layer texture (textures/defaults/grey.dds)...
+<16:07:07>   loaded editor layer 2  name='Underwater' LayerID=2
+<16:07:07> ---- End: Loading Terrain Layers Info (0 seconds)
+<16:07:07> ---- Start: Load Terrain
+<16:07:07> Constructing 1365 terrain nodes (0.6 MB) <16:07:07>  done in 0.01 sec
+<16:07:07> ===== Loading 0 vegetation models =====
+<16:07:07> ===== Loading 11 brush models ===== 
+<16:07:07> ===== Initializing terrain nodes ===== 
+<16:07:07> ===== Loading outdoor instances ===== 
+<16:07:07> ---- End: Load Terrain (0 seconds)
+<16:07:07> ---- Start: Process RGB Terrain Layers
+<16:07:07> ---- End: Process RGB Terrain Layers (0 seconds)
+<16:07:07> CRGBLayer::AllocateTiles 4x4 tiles 512 => 2048x2048 texture
+<16:07:07> Loading terrain layers for segment 0 ...
+<16:07:07> ---- End: Load Terrain (0 seconds)
+<16:07:07> ---- Start: Game Engine level load
+<16:07:07> Loading map 'assets/levels/applegate_lake' into engine...
+<16:07:07> ===== Loading Particle Effects =====
+<16:07:08> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 199)
+<16:07:08> [Error] [flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<16:07:08> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<16:07:08> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:07:08> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 190)
+<16:07:08> [Error] [flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<16:07:08> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<16:07:08> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:07:08> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 342)
+<16:07:08> [Error] [flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<16:07:08> [Error] [flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED
+<16:07:08> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed
+<16:07:08> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 82)
+<16:07:08> [Error] [flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<16:07:08> [Error] [flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED
+<16:07:08> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<16:07:08> ---- End: Game Engine level load (0 seconds)
+<16:07:08> ---- Start: Load MaterialManager
+<16:07:08> ---- End: Load MaterialManager (0 seconds)
+<16:07:08> ---- Start: Load Particles
+<16:07:08> ---- End: Load Particles (0 seconds)
+<16:07:08> ---- Start: Load Flares
+<16:07:08> ---- End: Load Flares (0 seconds)
+<16:07:08> ---- Start: Load GameTokens
+<16:07:08> ---- End: Load GameTokens (0 seconds)
+<16:07:08> Loading View settings...
+<16:07:08> ---- Start: Load Vegetation
+<16:07:08> Loading Vegetation Map...
+<16:07:08> ---- End: Load Vegetation (0 seconds)
+<16:07:08> ---- Start: Reposition Vegetation
+<16:07:08> ---- End: Reposition Vegetation (0 seconds)
+<16:07:08> ---- Start: Updating Surface Types
+<16:07:08> Loading terrain layers for segment 0 ...
+<16:07:08> ---- End: Updating Surface Types (0 seconds)
+<16:07:08> Loading Fog settings...
+<16:07:08> ---- Start: Load Entity Archetypes Database
+<16:07:08> ---- End: Load Entity Archetypes Database (0 seconds)
+<16:07:08> ---- Start: Load Prefabs Database
+<16:07:08> ---- End: Load Prefabs Database (0 seconds)
+<16:07:08> ---- Start: Activating Mission Mission0
+<16:07:08> [Warning] XML reader: Can't open file (objects/tower2/01 - default.mtl)
+<16:07:08> [Warning] XML reader: Can't open file (objects/house1/01 - default.mtl)
+<16:07:08> [Warning] XML reader: Can't open file (objects/tower6/03 - default.mtl)
+<16:07:08> Loaded material "tower6" instead of missing "03 - Default" (file "Objects/tower6/tower6.cgf")
+<16:07:08> [Warning] XML reader: Can't open file (objects/tower1/01 - default.mtl)
+<16:07:08> [Warning] XML reader: Can't open file (objects/multistore1/01 - default.mtl)
+<16:07:08> Loaded material "multistore1" instead of missing "01 - Default" (file "Objects/multistore1/multistore1.cgf")
+<16:07:08> [Warning] XML reader: Can't open file (objects/tower7/02 - default.mtl)
+<16:07:08> Loaded material "tower7" instead of missing "02 - Default" (file "Objects/tower7/tower7.cgf")
+<16:07:08> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:07:08>     > pairs, ([C]: -1)
+<16:07:08>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:07:08>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:07:08>       > (null) ([C]: -1)
+<16:07:08>     > pairs, ([C]: -1)
+<16:07:08>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:07:08>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:07:08> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:07:08> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:07:08>     > pairs, ([C]: -1)
+<16:07:08>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:07:08>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:07:08>       > (null) ([C]: -1)
+<16:07:08>     > pairs, ([C]: -1)
+<16:07:08>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:07:08>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:07:08> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:07:08> Init vehicle: HMMWV1 (HMMWV)
+<16:07:08> Loading CGA objects/vehicles/hmmwv/hmmwv.cga
+<16:07:08> Loading CGA objects/vehicles/hmmwv_old/hmmwv_damaged.cga
+<16:07:08> [Warning] Failed to load CGA-Object [File=objects/vehicles/hmmwv_old/hmmwv_damaged.cga]
+<16:07:08> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_anims.adb)
+<16:07:08> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_human_anims.adb)
+<16:07:08> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_controllerDefs.xml)
+<16:07:08> [Warning] Unknown Vehicle damage behavior: <Burn>
+<16:07:08> [Warning] Unknown Vehicle damage behavior: <Burn>
+<16:07:08> [Warning] The HitType melee is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)
+<16:07:08> [Warning] The HitType melee is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)
+<16:07:08> [Warning] Unknown Vehicle damage behavior: <Burn>
+<16:07:08> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<16:07:08> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<16:07:08> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<16:07:08> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<16:07:08> [Warning] The HitType collision is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)
+<16:07:08> [Warning] The HitType collision is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)
+<16:07:09> [Warning] Unknown Vehicle movement: <StdWheeled>
+<16:07:09> CVehicle::SetMovemement() failed to init movement <StdWheeled> on vehicle of class <HMMWV>.
+<16:07:09> CDefaultSkeleton Release: objects/vehicles/hmmwv/hmmwv.cga
+<16:07:09> [Error] [GameObject]: Couldn't activate extension HMMWV
+<16:07:09> [Error] Couldn't create entity HMMWV1: proxy 17 couldn't be initialized
+<16:07:09> Loading AI data assets/levels/applegate_lake, Mission0
+<16:07:09> --- AI: Navigation Data Loaded in  0.00 sec
+<16:07:09> [Warning] AI: Wrong BAI file version (found 6 expected 7)!! Regenerate Navigation data in the editor.
+<16:07:09> Finished Loading AI data in  0.017 secs
+<16:07:09> ---- End: Activating Mission Mission0 (0 seconds)
+<16:07:09> ---- Start: Load Level Shader Cache
+<16:07:09> ---- End: Load Level Shader Cache (0 seconds)
+<16:07:09> ---- Start: Post Load
+<16:07:09> ---- End: Post Load (0 seconds)
+<16:07:09> [LevelLoadTime] Level assets/levels/applegate_lake loaded in 1 seconds
+<16:07:09> ========================= Errors =========================
+<16:07:09>   0) [ 1]	[AI System]	AI: Wrong BAI file version (found 6 expected 7)!! Regenerate Navigation data in the editor.	 
+<16:07:09>   1) [ 1]	[Animation]	Failed to load CGA-Object	objects/vehicles/hmmwv_old/hmmwv_damaged.cga	 Object="HMMWV1"
+<16:07:09>   2) [ 2]	[Script]	[Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null)	@scripts/entities/vehicles/vehiclepool.lua	 Object="HMMWV1"
+<16:07:09>   3) [ 2]	[Script]	[Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)	 	 Object="HMMWV1"
+<16:07:09>   4) [ 1]	[System]	[Error] Couldn't create entity HMMWV1: proxy 17 couldn't be initialized	 	 Object="HMMWV1"
+<16:07:09>   5) [ 1]	[System]	[Error] [GameObject]: Couldn't activate extension HMMWV	 	 Object="HMMWV1"
+<16:07:09>   6) [ 1]	[System]	XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_anims.adb)	 	 Object="HMMWV1"
+<16:07:09>   7) [ 1]	[System]	XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_controllerDefs.xml)	 	 Object="HMMWV1"
+<16:07:09>   8) [ 1]	[System]	XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_human_anims.adb)	 	 Object="HMMWV1"
+<16:07:09>   9) [ 1]	[System]	XML reader: Can't open file (objects/house1/01 - default.mtl)	Objects/house1/house01.cgf	 Object="house1"
+<16:07:09>  10) [ 1]	[System]	XML reader: Can't open file (objects/multistore1/01 - default.mtl)	Objects/multistore1/multistore1.cgf	 Object="multistore1"
+<16:07:09>  11) [ 1]	[System]	XML reader: Can't open file (objects/tower1/01 - default.mtl)	Objects/tower1/tower1.cgf	 Object="tower1_1"
+<16:07:09>  12) [ 1]	[System]	XML reader: Can't open file (objects/tower2/01 - default.mtl)	Objects/tower2/tower2floor01.cgf	 Object="tower2floor1_53"
+<16:07:09>  13) [ 1]	[System]	XML reader: Can't open file (objects/tower6/03 - default.mtl)	Objects/tower6/tower6.cgf	 Object="tower6_1"
+<16:07:09>  14) [ 1]	[System]	XML reader: Can't open file (objects/tower7/02 - default.mtl)	Objects/tower7/tower7.cgf	 Object="tower7_1"
+<16:07:09>  15) [ 1]	[  Game]	MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed	 
+<16:07:09>  16) [ 1]	[  Game]	MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed	 
+<16:07:09>  17) [ 1]	[  Game]	MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed	 
+<16:07:09>  18) [ 1]	[  Game]	MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed	 
+<16:07:09>  19) [ 2]	[  Game]	The HitType collision is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)	 	 Object="HMMWV1"
+<16:07:09>  20) [ 2]	[  Game]	The HitType melee is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)	 	 Object="HMMWV1"
+<16:07:09>  21) [ 4]	[  Game]	Unknown Vehicle damage behavior: <BlowTire>	 	 Object="HMMWV1"
+<16:07:09>  22) [ 3]	[  Game]	Unknown Vehicle damage behavior: <Burn>	 	 Object="HMMWV1"
+<16:07:09>  23) [ 1]	[  Game]	Unknown Vehicle movement: <StdWheeled>	 	 Object="HMMWV1"
+<16:07:09>  24) [ 1]	[  Game]	[flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED	 
+<16:07:09>  25) [ 1]	[  Game]	[flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED	 
+<16:07:09>  26) [ 2]	[  Game]	[flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED	 
+<16:07:09>  27) [ 1]	[  Game]	[flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED	 
+<16:07:09>  28) [ 1]	[  Game]	[flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED	 
+<16:07:09>  29) [ 1]	[  Game]	[flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED	 
+<16:07:09>  30) [ 1]	[  Game]	[flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED	 
+<16:07:09>  31) [ 1]	[  Game]	[flow] Couldn't create node of type: InvalidType (node was to be 190)	 
+<16:07:09>  32) [ 1]	[  Game]	[flow] Couldn't create node of type: InvalidType (node was to be 199)	 
+<16:07:09>  33) [ 1]	[  Game]	[flow] Couldn't create node of type: InvalidType (node was to be 342)	 
+<16:07:09>  34) [ 1]	[  Game]	[flow] Couldn't create node of type: InvalidType (node was to be 82)	 
+<16:07:09>  35) [ 1]	[Editor]	Entity HMMWV1 Failed to Spawn (Script: HMMWV)	 	 Object="HMMWV1"
+<16:07:09>  36) [ 1]	[Editor]	Entity class HMMWV failed to load, (script: Scripts/Entities/Vehicles/VehiclePool.lua could not be loaded)	Scripts/Entities/Vehicles/VehiclePool.lua	 Object="HMMWV1"
+<16:07:09>  37) [ 1]	[Editor]	Material Objects/house1/01 - Default not found	 	 Object="house1"
+<16:07:09>  38) [ 1]	[Editor]	Material Objects/multistore1/01 - Default not found	 	 Object="multistore1"
+<16:07:09>  39) [ 1]	[Editor]	Material Objects/tower1/01 - Default not found	 	 Object="tower1_1"
+<16:07:09>  40) [ 1]	[Editor]	Material Objects/tower2/01 - Default not found	 	 Object="tower2floor1_53"
+<16:07:09>  41) [ 1]	[Editor]	Material Objects/tower6/03 - Default not found	 	 Object="tower6_1"
+<16:07:09>  42) [ 1]	[Editor]	Material Objects/tower7/02 - Default not found	 	 Object="tower7_1"
+<16:07:09>  43) [ 1]	[Editor]	Physicalized object has material (Objects/multistore1/multistore1:1) with invalid surface type.	 	 Object="multistore1"
+<16:07:09> ========================= End Errors =========================
+<16:07:09> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<16:07:09> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<16:07:09> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<16:07:09> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<16:07:09> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<16:07:09> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<16:07:09> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<16:07:09> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<16:07:09> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<16:07:09> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<16:07:09> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<16:07:09> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<16:07:09> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<16:07:09> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<16:07:09> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<16:07:09> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<16:07:09> SetGlobalState 1->11 'INIT'->'LEVEL_LOAD_TEXTURES' 22.2 seconds
+<16:07:09> -- Presort shaders by states...
+<16:07:09> --- 133 Resources, 35 Resource groups.
+<16:07:09> Requesting textures precache ...
+<16:07:09> -- Precaching textures...
+<16:07:09> Precaching progress: 1
+<16:07:09> Precaching progress: 2
+<16:07:09> Precaching progress: 3
+<16:07:09> Precaching progress: 4
+<16:07:10> Precaching progress: 5
+<16:07:10> Precaching progress: 6
+<16:07:10> Precaching progress: 7
+<16:07:10> Precaching progress: 8
+<16:07:10> Precaching progress: 9
+<16:07:11> Precaching textures done in 1.39 seconds
+<16:07:11> Textures precache done.
+<16:07:11> File access time during level loading: 1.73 seconds
+<16:07:11> -----------------------------------------------------------
+<16:07:11> Successfully opened document Assets/Levels/applegate_lake/
+<16:07:11> Level loading time: 6.78 seconds
+<16:07:11> -----------------------------------------------------------
+<16:07:11> Returned: 
+<16:07:11> Returned: 
+<16:07:11> Task Completed: Clean up compiled animations
+<16:07:11> Opening terrain\cover.ctc ...
+<16:07:11>   TerrainLayer 0: TexFormat: BC3, SectorTextureSize: 256x256, SectorTextureDataSizeBytes: 65536
+<16:07:11>   TerrainLayer 1: TexFormat: BC3, SectorTextureSize: 256x256, SectorTextureDataSizeBytes: 65536
+<16:07:11>   RGB multiplier: 1, Texture indices: 341
+<16:07:11> Loading RGB Layer Tile: TilePos=(0, 1) MemUsage=0.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(0, 2) MemUsage=1.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(0, 3) MemUsage=2.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(1, 1) MemUsage=3.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(1, 2) MemUsage=4.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(1, 3) MemUsage=5.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(2, 1) MemUsage=6.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(2, 2) MemUsage=7.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(2, 3) MemUsage=8.0MB
+<16:07:11> Loading RGB Layer Tile: TilePos=(0, 0) MemUsage=9.0MB
+<16:07:12> Loading RGB Layer Tile: TilePos=(1, 0) MemUsage=10.0MB
+<16:07:12> Loading RGB Layer Tile: TilePos=(3, 2) MemUsage=11.0MB
+<16:07:12> Loading RGB Layer Tile: TilePos=(3, 3) MemUsage=12.0MB
+<16:07:12> Loading RGB Layer Tile: TilePos=(3, 1) MemUsage=13.0MB
+<16:07:12> Loading RGB Layer Tile: TilePos=(2, 0) MemUsage=14.0MB
+<16:07:12> Loading RGB Layer Tile: TilePos=(3, 0) MemUsage=15.0MB
+<16:07:35> general.save
+<16:07:35> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:07:35> Storing View settings...
+<16:07:35> Storing Fog settings...
+<16:07:35> Storing missions...<16:07:35> Done
+<16:07:35> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:07:35> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:07:35> Storing surface types...
+<16:07:35> Storing layer settings...
+<16:07:35> Saving Vegetation Map...
+<16:07:35> Level successfully saved
+<16:07:35> Returned: 
+<16:07:46> general.save
+<16:07:46> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:07:46> Storing View settings...
+<16:07:46> Storing Fog settings...
+<16:07:46> Storing missions...<16:07:47> Done
+<16:07:47> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:07:47> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:07:47> Storing surface types...
+<16:07:47> Storing layer settings...
+<16:07:47> Saving Vegetation Map...
+<16:07:47> Level successfully saved
+<16:07:47> Returned: 
+<16:08:16> general.delete
+<16:08:16> Returned: 
+<16:08:30> general.save
+<16:08:30> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:08:30> Storing View settings...
+<16:08:30> Storing Fog settings...
+<16:08:30> Storing missions...<16:08:30> Done
+<16:08:30> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:08:30> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:08:30> Storing surface types...
+<16:08:30> Storing layer settings...
+<16:08:30> Saving Vegetation Map...
+<16:08:30> Level successfully saved
+<16:08:30> Returned: 
+<16:09:35> general.save
+<16:09:35> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:09:35> Storing View settings...
+<16:09:35> Storing Fog settings...
+<16:09:35> Storing missions...<16:09:35> Done
+<16:09:35> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:09:35> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:09:35> Storing surface types...
+<16:09:35> Storing layer settings...
+<16:09:35> Saving Vegetation Map...
+<16:09:35> Level successfully saved
+<16:09:35> Returned: 
+<16:09:49> general.save
+<16:09:49> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:09:49> Storing View settings...
+<16:09:49> Storing Fog settings...
+<16:09:49> Storing missions...<16:09:49> Done
+<16:09:49> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:09:49> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:09:49> Storing surface types...
+<16:09:49> Storing layer settings...
+<16:09:49> Saving Vegetation Map...
+<16:09:49> Level successfully saved
+<16:09:49> Returned: 
+<16:10:04> general.save
+<16:10:04> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:10:04> Storing View settings...
+<16:10:04> Storing Fog settings...
+<16:10:04> Storing missions...<16:10:04> Done
+<16:10:04> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:10:04> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:10:04> Storing surface types...
+<16:10:04> Storing layer settings...
+<16:10:04> Saving Vegetation Map...
+<16:10:04> Level successfully saved
+<16:10:04> Returned: 
+<16:10:35> general.save
+<16:10:35> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:10:35> Storing View settings...
+<16:10:35> Storing Fog settings...
+<16:10:35> Storing missions...<16:10:35> Done
+<16:10:35> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:10:35> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:10:35> Storing surface types...
+<16:10:35> Storing layer settings...
+<16:10:35> Saving Vegetation Map...
+<16:10:35> Level successfully saved
+<16:10:35> Returned: 
+<16:11:19> general.save
+<16:11:19> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:11:19> Storing View settings...
+<16:11:19> Storing Fog settings...
+<16:11:19> Storing missions...<16:11:19> Done
+<16:11:19> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:11:19> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:11:19> Storing surface types...
+<16:11:19> Storing layer settings...
+<16:11:19> Saving Vegetation Map...
+<16:11:19> Level successfully saved
+<16:11:19> Returned: 
+<16:11:40> general.save
+<16:11:40> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:11:40> Storing View settings...
+<16:11:40> Storing Fog settings...
+<16:11:40> Storing missions...<16:11:40> Done
+<16:11:40> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:11:40> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:11:41> Storing surface types...
+<16:11:41> Storing layer settings...
+<16:11:41> Saving Vegetation Map...
+<16:11:41> Level successfully saved
+<16:11:41> Returned: 
+<16:11:50> general.save
+<16:11:50> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:11:50> Storing View settings...
+<16:11:50> Storing Fog settings...
+<16:11:50> Storing missions...<16:11:50> Done
+<16:11:50> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:11:50> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:11:50> Storing surface types...
+<16:11:50> Storing layer settings...
+<16:11:50> Saving Vegetation Map...
+<16:11:50> Level successfully saved
+<16:11:50> Returned: 
+<16:12:25> general.save
+<16:12:25> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:12:25> Storing View settings...
+<16:12:25> Storing Fog settings...
+<16:12:25> Storing missions...<16:12:25> Done
+<16:12:25> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:12:25> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:12:25> Storing surface types...
+<16:12:25> Storing layer settings...
+<16:12:25> Saving Vegetation Map...
+<16:12:25> Level successfully saved
+<16:12:25> Returned: 
+<16:13:16> Undo Object Canceled (Undo:59,Redo:0)
+<16:13:26> Undo Object Canceled (Undo:59,Redo:0)
+<16:13:30> Undo Object Canceled (Undo:59,Redo:0)
+<16:13:51> general.save
+<16:13:51> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:13:51> Storing View settings...
+<16:13:51> Storing Fog settings...
+<16:13:51> Storing missions...<16:13:51> Done
+<16:13:51> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:13:51> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:13:51> Storing surface types...
+<16:13:51> Storing layer settings...
+<16:13:51> Saving Vegetation Map...
+<16:13:51> Level successfully saved
+<16:13:51> Returned: 
+<16:14:02> general.undo
+<16:14:02> Undo (Undo:60,Redo:1)
+<16:14:02> Returned: 
+<16:14:03> general.undo
+<16:14:03> Undo (Undo:59,Redo:2)
+<16:14:03> Returned: 
+<16:14:15> general.undo
+<16:14:15> Undo (Undo:59,Redo:1)
+<16:14:15> Returned: 
+<16:14:33> general.save
+<16:14:33> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:14:33> Storing View settings...
+<16:14:33> Storing Fog settings...
+<16:14:33> Storing missions...<16:14:33> Done
+<16:14:33> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:14:33> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:14:33> Storing surface types...
+<16:14:33> Storing layer settings...
+<16:14:33> Saving Vegetation Map...
+<16:14:33> Level successfully saved
+<16:14:33> Returned: 
+<16:14:38> ui_action.actionSelect_Mode
+<16:14:38> Returned: 
+<16:15:26> Undo Object Canceled (Undo:75,Redo:0)
+<16:15:54> Undo Object Canceled (Undo:75,Redo:0)
+<16:16:07> Undo Object Canceled (Undo:75,Redo:0)
+<16:16:30> general.open_pane 'ViewportClass_Top'
+<16:16:30> Returned: 
+<16:17:02> general.open_pane 'Display Settings'
+<16:17:02> Returned: 
+<16:19:26> ui_action.actionLock_XY_Axis
+<16:19:26> Returned: 
+<16:20:41> general.save
+<16:20:41> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:20:41> Storing View settings...
+<16:20:41> Storing Fog settings...
+<16:20:41> Storing missions...<16:20:41> Done
+<16:20:41> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:20:41> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:20:41> Storing surface types...
+<16:20:41> Storing layer settings...
+<16:20:41> Saving Vegetation Map...
+<16:20:41> Level successfully saved
+<16:20:41> Returned: 
+<16:22:08> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:22:08>     > pairs, ([C]: -1)
+<16:22:08>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:22:08>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:22:08>       > (null) ([C]: -1)
+<16:22:08>     > pairs, ([C]: -1)
+<16:22:08>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:22:08>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:22:08> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:22:08> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<16:22:08>     > pairs, ([C]: -1)
+<16:22:08>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:22:08>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:22:08>       > (null) ([C]: -1)
+<16:22:08>     > pairs, ([C]: -1)
+<16:22:08>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<16:22:08>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<16:22:08> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<16:22:08> Init vehicle: swat_van1 (swat_van)
+<16:22:08> Loading CGA objects/vehicles/swat_van/swat_van.cga
+<16:22:08> [Warning] Failed to load CGA-Object [File=objects/vehicles/swat_van/swat_van.cga]
+<16:22:08> Loading CGA objects/vehicles/swat_van/swat_van_damaged.cga
+<16:22:08> [Warning] Failed to load CGA-Object [File=objects/vehicles/swat_van/swat_van_damaged.cga]
+<16:22:08> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/swatvan_anims.adb)
+<16:22:08> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/swatvan_human_anims.adb)
+<16:22:08> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/swatvan_controllerdefs.xml)
+<16:22:08> [Warning] Unknown Vehicle damage behavior: <Burn>
+<16:22:08> [Warning] Unknown Vehicle damage behavior: <Burn>
+<16:22:08> [Warning] Unknown Vehicle damage behavior: <Burn>
+<16:22:08> [Warning] The HitType melee is not registered and was ignored while parsing DamageMultipliers (referenced in entity swat_van1 of class swat_van)
+<16:22:08> [Warning] The HitType melee is not registered and was ignored while parsing DamageMultipliers (referenced in entity swat_van1 of class swat_van)
+<16:22:08> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<16:22:08> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<16:22:08> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<16:22:08> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<16:22:08> [Warning] Unknown Vehicle movement: <StdWheeled>
+<16:22:08> CVehicle::SetMovemement() failed to init movement <StdWheeled> on vehicle of class <swat_van>.
+<16:22:08> [Error] [GameObject]: Couldn't activate extension swat_van
+<16:22:08> [Error] Couldn't create entity swat_van1: proxy 17 couldn't be initialized
+<16:22:20> ui_action.actionSwitch_to_Game
+<16:22:20> general.enter_game_mode
+<16:22:20> Returned: 
+<16:22:20> Returned: 
+<16:22:20> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<16:22:20> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<16:22:20> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<16:22:20> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<16:22:20> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<16:22:20> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<16:22:20> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<16:22:20> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<16:22:20> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<16:22:20> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<16:22:20> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<16:22:20> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<16:22:20> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<16:22:20> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<16:22:20> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<16:22:20> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<16:22:21> [Warning] CGF Loading Failed: Failed to open file 'objects/natural/rocks/river_rocks/riverrock_big_dry_a_lod1.cgf' [File=objects/natural/rocks/river_rocks/riverrock_big_dry_a_lod1.cgf]
+<16:22:21> [Error] Failed to load cgf: objects/natural/rocks/river_rocks/riverrock_big_dry_a_lod1.cgf
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "max_distance_from_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "max_distance_from_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "isAdvantageSpotOccupied"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "isAdvantageSpotOccupied_for_puppet"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) - Invalid query "isAdvantageSpotOccupied_for_puppet"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "isAdvantageSpotOccupied"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "isAdvantageSpotOccupied_for_puppet"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) - Invalid query "isAdvantageSpotOccupied_for_puppet"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "cover_from_attentionTarget_around_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToGeneration - Invalid query "cover_from_attentionTarget_around_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToGeneration(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "cover_from_attentionTarget_around_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToGeneration - Invalid query "cover_from_attentionTarget_around_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToGeneration(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "cover_from_attentionTarget_around_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToGeneration - Invalid query "cover_from_attentionTarget_around_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToGeneration(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "cover_from_attentionTarget_around_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToGeneration - Invalid query "cover_from_attentionTarget_around_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToGeneration(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "max_distance_from_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "max_distance_from_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "myflank"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "myflank_to_attentionTarget"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) - Invalid query "myflank_to_attentionTarget"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "max_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "max_distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<16:22:22> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<16:22:22> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<16:22:22> [Error] !AI: Error: <CScriptBind_AI> CreateQueryFromTacticalSpec(): "SDKGrunt_OpenCombat": Queries specifications must provide at least one entry in the Weights table
+<16:22:22> [Warning] !AI: Error: <CScriptBind_AI> CreateQueryFromTacticalSpec(): "SDKGrunt_OpenCombat": Queries specifications must provide at least one entry in the Weights table
+<16:22:22> [Error] !AI: Error: <CScriptBind_AI> CreateQueryFromTacticalSpec(): "SDKGrunt_CoverToShootFrom": Queries specifications must provide at least one entry in the Weights table
+<16:22:22> [Warning] !AI: Error: <CScriptBind_AI> CreateQueryFromTacticalSpec(): "SDKGrunt_CoverToShootFrom": Queries specifications must provide at least one entry in the Weights table
+<16:22:22> Pre-caching render meshes for camera position
+<16:22:22> Updating level streaming priorities for 1 cameras (LevelFrameId = 1)
+<16:22:22> -- 3485.049316 2818.339844 115.290634
+<16:22:23> SetGlobalState 11->2 'LEVEL_LOAD_TEXTURES'->'RUNNING' 913.4 seconds
+<16:22:27> general.exit_game_mode
+<16:22:27> Returned: 
+<16:22:27> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<16:22:27> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<16:22:27> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<16:22:27> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<16:22:27> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<16:22:27> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<16:22:27> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<16:22:27> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<16:22:27> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<16:22:27> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<16:22:27> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<16:22:27> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<16:22:27> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<16:22:27> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<16:22:27> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<16:22:27> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<16:22:27> general.clear_selection
+<16:22:27> Returned: 1
+<16:22:30> general.select_all
+<16:22:30> Returned: 
+<16:23:30> ui_action.actionMove
+<16:23:30> Returned: 
+<16:23:43> general.set_local_coordinates
+<16:23:43> Returned: 
+<16:23:50> general.set_view_coordinates
+<16:23:50> Returned: 
+<16:23:52> ui_action.actionScale
+<16:23:52> Returned: 
+<16:24:04> ui_action.actionRotate
+<16:24:04> Returned: 
+<16:24:20> general.undo
+<16:24:20> Undo (Undo:101,Redo:1)
+<16:24:20> Returned: 
+<16:24:24> general.undo
+<16:24:24> Undo (Undo:101,Redo:1)
+<16:24:24> Returned: 
+<16:24:43> ui_action.actionMove
+<16:24:43> Returned: 
+<16:24:51> ui_action.actionLock_XY_Axis
+<16:24:51> Returned: 
+<16:25:44> general.save
+<16:25:44> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:25:45> Storing View settings...
+<16:25:45> Storing Fog settings...
+<16:25:45> Storing missions...<16:25:45> Done
+<16:25:45> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:25:45> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:25:45> Storing surface types...
+<16:25:45> Storing layer settings...
+<16:25:45> Saving Vegetation Map...
+<16:25:45> Level successfully saved
+<16:25:45> Returned: 
+<16:26:21> general.save
+<16:26:21> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:26:21> Storing View settings...
+<16:26:21> Storing Fog settings...
+<16:26:21> Storing missions...<16:26:21> Done
+<16:26:21> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:26:21> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:26:21> Storing surface types...
+<16:26:21> Storing layer settings...
+<16:26:21> Saving Vegetation Map...
+<16:26:21> Level successfully saved
+<16:26:21> Returned: 
+<16:26:58> general.copy
+<16:26:58> Returned: 
+<16:27:03> general.undo
+<16:27:03> Undo (Undo:130,Redo:1)
+<16:27:03> Returned: 
+<16:27:05> general.paste
+<16:27:05> Returned: 
+<16:27:08> general.paste
+<16:27:08> Returned: 
+<16:27:10> general.undo
+<16:27:10> Undo (Undo:133,Redo:1)
+<16:27:10> Returned: 
+<16:27:11> general.undo
+<16:27:11> Undo (Undo:132,Redo:2)
+<16:27:11> Returned: 
+<16:27:17> general.copy
+<16:27:17> Returned: 
+<16:27:18> general.copy
+<16:27:18> Returned: 
+<16:27:18> general.paste
+<16:27:18> Returned: 
+<16:27:22> general.undo
+<16:27:22> Undo (Undo:136,Redo:1)
+<16:27:22> Returned: 
+<16:27:27> general.undo
+<16:27:27> Undo (Undo:138,Redo:1)
+<16:27:27> Returned: 
+<16:27:33> general.undo
+<16:27:33> Undo (Undo:138,Redo:1)
+<16:27:33> Returned: 
+<16:27:33> general.undo
+<16:27:33> Undo (Undo:137,Redo:2)
+<16:27:33> Returned: 
+<16:27:33> general.undo
+<16:27:33> Undo (Undo:136,Redo:3)
+<16:27:33> Returned: 
+<16:27:34> general.undo
+<16:27:34> Undo (Undo:135,Redo:4)
+<16:27:34> Returned: 
+<16:27:58> general.save
+<16:27:58> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:27:58> Storing View settings...
+<16:27:58> Storing Fog settings...
+<16:27:58> Storing missions...<16:27:58> Done
+<16:27:58> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:27:58> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:27:58> Storing surface types...
+<16:27:58> Storing layer settings...
+<16:27:58> Saving Vegetation Map...
+<16:27:58> Level successfully saved
+<16:27:58> Returned: 
+<16:29:05> Undo Object Canceled (Undo:138,Redo:0)
+<16:29:07> ui_action.actionLock_XY_Axis
+<16:29:07> Returned: 
+<16:29:20> Undo Object Canceled (Undo:138,Redo:0)
+<16:29:23> Undo Object Canceled (Undo:138,Redo:0)
+<16:29:35> Undo Object Canceled (Undo:138,Redo:0)
+<16:29:42> Undo Object Canceled (Undo:138,Redo:0)
+<16:29:44> Undo Object Canceled (Undo:138,Redo:0)
+<16:29:53> Undo Object Canceled (Undo:138,Redo:0)
+<16:29:55> Undo Object Canceled (Undo:138,Redo:0)
+<16:30:22> general.undo
+<16:30:22> Cannot Undo while Recording
+<16:30:22> Returned: 
+<16:30:30> general.undo
+<16:30:30> Undo (Undo:138,Redo:1)
+<16:30:30> Returned: 
+<16:32:04> general.undo
+<16:32:04> Undo (Undo:148,Redo:1)
+<16:32:04> Returned: 
+<16:34:17> general.save
+<16:34:17> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:34:17> Storing View settings...
+<16:34:17> Storing Fog settings...
+<16:34:17> Storing missions...<16:34:17> Done
+<16:34:17> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:34:17> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:34:17> Storing surface types...
+<16:34:17> Storing layer settings...
+<16:34:17> Saving Vegetation Map...
+<16:34:17> Level successfully saved
+<16:34:17> Returned: 
+<16:35:05> general.delete
+<16:35:05> Returned: 
+<16:35:09> general.delete
+<16:35:09> Returned: 
+<16:35:47> general.undo
+<16:35:47> Undo (Undo:178,Redo:1)
+<16:35:47> Returned: 
+<16:39:46> general.save
+<16:39:46> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:39:46> Storing View settings...
+<16:39:46> Storing Fog settings...
+<16:39:46> Storing missions...<16:39:46> Done
+<16:39:46> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:39:46> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:39:46> Storing surface types...
+<16:39:46> Storing layer settings...
+<16:39:46> Saving Vegetation Map...
+<16:39:46> Level successfully saved
+<16:39:46> Returned: 
+<16:40:10> Undo Object Canceled (Undo:207,Redo:0)
+<16:40:10> ui_action.actionLock_Y_Axis
+<16:40:10> Returned: 
+<16:40:35> Undo Object Canceled (Undo:207,Redo:0)
+<16:41:08> general.undo
+<16:41:08> Undo (Undo:216,Redo:1)
+<16:41:08> Returned: 
+<16:41:09> general.undo
+<16:41:09> Undo (Undo:215,Redo:2)
+<16:41:09> Returned: 
+<16:41:46> general.save
+<16:41:46> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:41:46> Storing View settings...
+<16:41:46> Storing Fog settings...
+<16:41:46> Storing missions...<16:41:46> Done
+<16:41:46> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:41:46> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:41:46> Storing surface types...
+<16:41:46> Storing layer settings...
+<16:41:46> Saving Vegetation Map...
+<16:41:46> Level successfully saved
+<16:41:46> Returned: 
+<16:41:48> ui_action.actionSelect_Mode
+<16:41:48> Returned: 
+<16:42:02> ui_action.actionScale
+<16:42:02> Returned: 
+<16:42:56> ui_action.actionSelect_Mode
+<16:42:56> Returned: 
+<16:43:27> ui_action.actionRotate
+<16:43:27> Returned: 
+<16:44:28> ui_action.actionSelect_Mode
+<16:44:28> Returned: 
+<16:44:56> ui_action.actionMove
+<16:44:56> Returned: 
+<16:45:07> ui_action.actionRotate
+<16:45:07> Returned: 
+<16:45:20> ui_action.actionMove
+<16:45:20> Returned: 
+<16:45:40> general.save
+<16:45:40> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:45:40> Storing View settings...
+<16:45:40> Storing Fog settings...
+<16:45:40> Storing missions...<16:45:41> Done
+<16:45:41> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:45:41> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:45:41> Storing surface types...
+<16:45:41> Storing layer settings...
+<16:45:41> Saving Vegetation Map...
+<16:45:41> Level successfully saved
+<16:45:41> Returned: 
+<16:45:47> Undo Object Canceled (Undo:282,Redo:0)
+<16:45:50> Undo Object Canceled (Undo:282,Redo:0)
+<16:45:53> Undo Object Canceled (Undo:282,Redo:0)
+<16:46:03> general.undo
+<16:46:03> Cannot Undo while Recording
+<16:46:03> Returned: 
+<16:46:04> general.undo
+<16:46:04> Undo (Undo:283,Redo:1)
+<16:46:04> Returned: 
+<16:46:05> general.undo
+<16:46:05> Undo (Undo:282,Redo:2)
+<16:46:05> Returned: 
+<16:46:08> ui_action.actionLock_XY_Axis
+<16:46:08> Returned: 
+<16:46:27> general.delete
+<16:46:27> Returned: 
+<16:46:29> ui_action.actionLock_X_Axis
+<16:46:29> Returned: 
+<16:46:37> Undo Object Canceled (Undo:284,Redo:0)
+<16:46:38> ui_action.actionLock_X_Axis
+<16:46:38> Returned: 
+<16:46:38> ui_action.actionLock_X_Axis
+<16:46:38> Returned: 
+<16:46:38> ui_action.actionLock_X_Axis
+<16:46:38> Returned: 
+<16:46:38> ui_action.actionLock_X_Axis
+<16:46:38> Returned: 
+<16:46:38> ui_action.actionLock_X_Axis
+<16:46:38> Returned: 
+<16:46:38> ui_action.actionLock_X_Axis
+<16:46:38> Returned: 
+<16:46:38> ui_action.actionLock_X_Axis
+<16:46:38> Returned: 
+<16:46:45> Undo Object Canceled (Undo:284,Redo:0)
+<16:46:45> ui_action.actionLock_Z_Axis
+<16:46:45> Returned: 
+<16:46:46> Undo Object Canceled (Undo:284,Redo:0)
+<16:46:47> ui_action.actionLock_Y_Axis
+<16:46:47> Returned: 
+<16:46:47> ui_action.actionLock_Z_Axis
+<16:46:47> Returned: 
+<16:46:52> Undo Object Canceled (Undo:284,Redo:0)
+<16:46:53> ui_action.actionLock_X_Axis
+<16:46:53> Returned: 
+<16:46:53> ui_action.actionLock_X_Axis
+<16:46:53> Returned: 
+<16:46:53> ui_action.actionLock_X_Axis
+<16:46:53> Returned: 
+<16:46:54> ui_action.actionLock_X_Axis
+<16:46:54> Returned: 
+<16:47:10> Undo Object Canceled (Undo:284,Redo:0)
+<16:47:28> Undo Object Canceled (Undo:284,Redo:0)
+<16:47:28> ui_action.actionLock_Y_Axis
+<16:47:28> Returned: 
+<16:47:49> general.delete
+<16:47:49> Returned: 
+<16:48:53> ui_action.actionLock_Z_Axis
+<16:48:53> Returned: 
+<16:48:54> ui_action.actionLock_XY_Axis
+<16:48:54> Returned: 
+<16:49:35> general.save
+<16:49:35> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:49:35> Storing View settings...
+<16:49:35> Storing Fog settings...
+<16:49:35> Storing missions...<16:49:35> Done
+<16:49:35> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:49:35> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:49:35> Storing surface types...
+<16:49:35> Storing layer settings...
+<16:49:35> Saving Vegetation Map...
+<16:49:35> Level successfully saved
+<16:49:35> Returned: 
+<16:50:20> general.undo
+<16:50:20> Undo (Undo:307,Redo:1)
+<16:50:20> Returned: 
+<16:50:37> general.undo
+<16:50:37> Undo (Undo:307,Redo:1)
+<16:50:37> Returned: 
+<16:51:58> general.undo
+<16:51:58> Undo (Undo:338,Redo:1)
+<16:51:58> Returned: 
+<16:52:30> ui_action.actionSelect_Mode
+<16:52:31> Returned: 
+<16:52:38> general.save
+<16:52:38> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:52:38> Storing View settings...
+<16:52:38> Storing Fog settings...
+<16:52:38> Storing missions...<16:52:38> Done
+<16:52:38> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:52:38> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:52:38> Storing surface types...
+<16:52:38> Storing layer settings...
+<16:52:38> Saving Vegetation Map...
+<16:52:38> Level successfully saved
+<16:52:38> Returned: 
+<16:56:04> general.save
+<16:56:04> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:56:04> Storing View settings...
+<16:56:04> Storing Fog settings...
+<16:56:04> Storing missions...<16:56:04> Done
+<16:56:04> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:56:04> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:56:04> Storing surface types...
+<16:56:04> Storing layer settings...
+<16:56:04> Saving Vegetation Map...
+<16:56:04> Level successfully saved
+<16:56:04> Returned: 
+<16:56:07> ui_action.actionSelect_Mode
+<16:56:07> Returned: 
+<16:56:11> general.save
+<16:56:11> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:56:11> Storing View settings...
+<16:56:11> Storing Fog settings...
+<16:56:11> Storing missions...<16:56:12> Done
+<16:56:12> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:56:12> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:56:12> Storing surface types...
+<16:56:12> Storing layer settings...
+<16:56:12> Saving Vegetation Map...
+<16:56:12> Level successfully saved
+<16:56:12> Returned: 
+<16:56:25> general.copy
+<16:56:25> Returned: 
+<16:56:26> general.copy
+<16:56:26> Returned: 
+<16:56:26> general.copy
+<16:56:26> Returned: 
+<16:56:26> general.copy
+<16:56:26> Returned: 
+<16:56:26> general.copy
+<16:56:26> Returned: 
+<16:56:27> general.paste
+<16:56:27> Returned: 
+<16:56:27> general.paste
+<16:56:27> Returned: 
+<16:56:28> general.paste
+<16:56:28> Returned: 
+<16:56:29> general.paste
+<16:56:29> Returned: 
+<16:56:29> general.paste
+<16:56:29> Returned: 
+<16:56:29> general.paste
+<16:56:29> Returned: 
+<16:56:29> general.paste
+<16:56:29> Returned: 
+<16:56:30> general.paste
+<16:56:30> Returned: 
+<16:56:46> ui_action.actionScale
+<16:56:46> Returned: 
+<16:57:10> ui_action.actionSelect_Mode
+<16:57:10> Returned: 
+<16:57:12> ui_action.actionRotate
+<16:57:12> Returned: 
+<16:57:22> ui_action.actionMove
+<16:57:22> Returned: 
+<16:57:26> ui_action.actionRotate
+<16:57:26> Returned: 
+<16:57:36> ui_action.actionMove
+<16:57:36> Returned: 
+<16:58:23> general.save
+<16:58:23> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:58:23> Storing View settings...
+<16:58:23> Storing Fog settings...
+<16:58:23> Storing missions...<16:58:23> Done
+<16:58:23> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:58:23> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:58:23> Storing surface types...
+<16:58:23> Storing layer settings...
+<16:58:23> Saving Vegetation Map...
+<16:58:23> Level successfully saved
+<16:58:23> Returned: 
+<16:58:24> ui_action.actionSelect_Mode
+<16:58:24> Returned: 
+<16:58:25> general.save
+<16:58:25> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<16:58:25> Storing View settings...
+<16:58:25> Storing Fog settings...
+<16:58:25> Storing missions...<16:58:25> Done
+<16:58:25> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<16:58:25> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<16:58:25> Storing surface types...
+<16:58:25> Storing layer settings...
+<16:58:25> Saving Vegetation Map...
+<16:58:25> Level successfully saved
+<16:58:25> Returned: 
+<17:05:54> ui_action.actionSelect_Mode
+<17:05:54> Returned: 
+<17:05:58> general.save
+<17:05:58> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:05:58> Storing View settings...
+<17:05:58> Storing Fog settings...
+<17:05:58> Storing missions...<17:05:58> Done
+<17:05:58> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:05:58> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:05:58> Storing surface types...
+<17:05:58> Storing layer settings...
+<17:05:58> Saving Vegetation Map...
+<17:05:58> Level successfully saved
+<17:05:58> Returned: 
+<17:06:11> Undo Object Canceled (Undo:784,Redo:0)
+<17:06:12> ui_action.actionMove
+<17:06:12> Returned: 
+<17:06:26> Undo Object Canceled (Undo:784,Redo:0)
+<17:06:30> Undo Object Canceled (Undo:784,Redo:0)
+<17:06:30> ui_action.actionLock_XY_Axis
+<17:06:30> Returned: 
+<17:06:32> Undo Object Canceled (Undo:784,Redo:0)
+<17:06:32> ui_action.actionLock_Y_Axis
+<17:06:32> Returned: 
+<17:06:33> ui_action.actionLock_Z_Axis
+<17:06:33> Returned: 
+<17:06:33> ui_action.actionLock_X_Axis
+<17:06:33> Returned: 
+<17:06:39> general.undo
+<17:06:39> Cannot Undo while Recording
+<17:06:39> Returned: 
+<17:06:39> general.undo
+<17:06:39> Cannot Undo while Recording
+<17:06:39> Returned: 
+<17:06:42> general.redo
+<17:06:42> Cannot Redo while Recording
+<17:06:42> Returned: 
+<17:06:42> general.redo
+<17:06:42> Cannot Redo while Recording
+<17:06:42> Returned: 
+<17:06:43> general.delete
+<17:06:43> Undo Object Canceled (Undo:784,Redo:0)
+<17:06:43> Returned: 
+<17:06:46> ui_action.actionLock_Z_Axis
+<17:06:46> Returned: 
+<17:06:50> Undo Object Canceled (Undo:785,Redo:0)
+<17:06:51> Undo Object Canceled (Undo:785,Redo:0)
+<17:16:29> general.undo
+<17:16:29> Undo (Undo:1396,Redo:1)
+<17:16:29> Returned: 
+<17:16:51> general.undo
+<17:16:51> Undo (Undo:1415,Redo:1)
+<17:16:51> Returned: 
+<17:17:58> general.undo
+<17:17:58> Undo (Undo:1463,Redo:1)
+<17:17:58> Returned: 
+<17:17:58> general.undo
+<17:17:58> Undo (Undo:1462,Redo:2)
+<17:17:58> Returned: 
+<17:17:58> general.undo
+<17:17:58> Undo (Undo:1461,Redo:3)
+<17:17:58> Returned: 
+<17:18:47> general.undo
+<17:18:47> Undo (Undo:1500,Redo:1)
+<17:18:47> Returned: 
+<17:18:48> general.undo
+<17:18:48> Undo (Undo:1499,Redo:2)
+<17:18:48> Returned: 
+<17:18:52> general.undo
+<17:18:52> Undo (Undo:1500,Redo:1)
+<17:18:52> Returned: 
+<17:18:52> general.undo
+<17:18:52> Undo (Undo:1499,Redo:2)
+<17:18:52> Returned: 
+<17:18:56> general.undo
+<17:18:56> Undo (Undo:1502,Redo:1)
+<17:18:56> Returned: 
+<17:18:59> general.undo
+<17:18:59> Undo (Undo:1505,Redo:1)
+<17:18:59> Returned: 
+<17:19:20> general.undo
+<17:19:20> Undo (Undo:1514,Redo:1)
+<17:19:20> Returned: 
+<17:19:20> general.undo
+<17:19:20> Undo (Undo:1513,Redo:2)
+<17:19:20> Returned: 
+<17:19:22> general.save
+<17:19:22> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:19:22> Storing View settings...
+<17:19:22> Storing Fog settings...
+<17:19:22> Storing missions...<17:19:22> Done
+<17:19:22> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:19:22> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:19:22> Storing surface types...
+<17:19:22> Storing layer settings...
+<17:19:22> Saving Vegetation Map...
+<17:19:22> Level successfully saved
+<17:19:22> Returned: 
+<17:19:23> general.undo
+<17:19:23> Undo (Undo:1512,Redo:3)
+<17:19:23> Returned: 
+<17:19:36> general.save
+<17:19:36> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:19:36> Storing View settings...
+<17:19:36> Storing Fog settings...
+<17:19:36> Storing missions...<17:19:36> Done
+<17:19:36> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:19:36> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:19:36> Storing surface types...
+<17:19:36> Storing layer settings...
+<17:19:36> Saving Vegetation Map...
+<17:19:36> Level successfully saved
+<17:19:36> Returned: 
+<17:20:15> general.undo
+<17:20:15> Undo (Undo:1532,Redo:1)
+<17:20:15> Returned: 
+<17:20:15> general.undo
+<17:20:15> Undo (Undo:1531,Redo:2)
+<17:20:15> Returned: 
+<17:20:45> ui_action.actionSelect_Mode
+<17:20:45> Returned: 
+<17:21:02> Undo Object Canceled (Undo:1550,Redo:0)
+<17:21:02> ui_action.actionMove
+<17:21:02> Returned: 
+<17:21:06> ui_action.actionLock_XY_Axis
+<17:21:06> Returned: 
+<17:21:15> Undo Object Canceled (Undo:1551,Redo:0)
+<17:21:41> ui_action.actionSelect_Mode
+<17:21:41> Returned: 
+<17:21:44> Undo Object Canceled (Undo:1560,Redo:0)
+<17:21:48> Undo Object Canceled (Undo:1560,Redo:0)
+<17:22:24> Undo Object Canceled (Undo:1560,Redo:0)
+<17:22:25> ui_action.actionLock_Y_Axis
+<17:22:25> Returned: 
+<17:22:27> Undo Object Canceled (Undo:1560,Redo:0)
+<17:22:28> ui_action.actionLock_XY_Axis
+<17:22:28> Returned: 
+<17:23:00> general.delete
+<17:23:00> Returned: 
+<17:23:14> general.save
+<17:23:14> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:23:14> Storing View settings...
+<17:23:14> Storing Fog settings...
+<17:23:14> Storing missions...<17:23:14> Done
+<17:23:14> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:23:14> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:23:14> Storing surface types...
+<17:23:14> Storing layer settings...
+<17:23:14> Saving Vegetation Map...
+<17:23:14> Level successfully saved
+<17:23:14> Returned: 
+<17:23:54> ui_action.actionLock_Z_Axis
+<17:23:54> Returned: 
+<17:24:15> general.undo
+<17:24:15> Undo (Undo:1567,Redo:1)
+<17:24:15> Returned: 
+<17:24:52> ui_action.actionLock_XY_Axis
+<17:24:52> Returned: 
+<17:27:06> general.undo
+<17:27:06> Undo (Undo:1595,Redo:1)
+<17:27:06> Returned: 
+<17:27:08> general.redo
+<17:27:08> Redo (Undo:1596,Redo:0)
+<17:27:08> Returned: 
+<17:28:44> general.save
+<17:28:44> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:28:44> Storing View settings...
+<17:28:44> Storing Fog settings...
+<17:28:44> Storing missions...<17:28:44> Done
+<17:28:44> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:28:44> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:28:44> Storing surface types...
+<17:28:45> Storing layer settings...
+<17:28:45> Saving Vegetation Map...
+<17:28:45> Level successfully saved
+<17:28:45> Returned: 
+<17:30:38> ui_action.actionSelect_Mode
+<17:30:38> Returned: 
+<17:30:57> general.undo
+<17:30:57> Undo (Undo:1686,Redo:1)
+<17:30:57> Returned: 
+<17:31:05> general.undo
+<17:31:05> Undo (Undo:1687,Redo:1)
+<17:31:05> Returned: 
+<17:31:05> general.undo
+<17:31:05> Undo (Undo:1686,Redo:2)
+<17:31:05> Returned: 
+<17:31:09> general.undo
+<17:31:09> Undo (Undo:1691,Redo:1)
+<17:31:09> Returned: 
+<17:31:12> ui_action.actionSelect_Mode
+<17:31:12> Returned: 
+<17:31:23> general.undo
+<17:31:23> Undo (Undo:1693,Redo:1)
+<17:31:23> Returned: 
+<17:31:58> ui_action.actionSelect_Mode
+<17:31:58> Returned: 
+<17:32:20> general.save
+<17:32:20> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:32:20> Storing View settings...
+<17:32:20> Storing Fog settings...
+<17:32:20> Storing missions...<17:32:20> Done
+<17:32:20> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:32:20> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:32:20> Storing surface types...
+<17:32:20> Storing layer settings...
+<17:32:20> Saving Vegetation Map...
+<17:32:20> Level successfully saved
+<17:32:20> Returned: 
+<17:32:42> ui_action.actionSelect_Mode
+<17:32:42> Returned: 
+<17:35:43> general.save
+<17:35:43> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:35:43> Storing View settings...
+<17:35:43> Storing Fog settings...
+<17:35:43> Storing missions...<17:35:43> Done
+<17:35:43> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:35:43> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:35:43> Storing surface types...
+<17:35:43> Storing layer settings...
+<17:35:43> Saving Vegetation Map...
+<17:35:43> Level successfully saved
+<17:35:43> Returned: 
+<17:35:49> general.open_pane 'Material Editor'
+<17:35:50> Returned: 
+<17:35:50> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor\materials\stripes.tif", to "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor\materials\stripes_tmp.dds"
+<17:36:42> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:36:46> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:36:48> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:36:50> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:37:40> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:37:42> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:37:45> general.undo
+<17:37:45> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:37:45> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:37:45> Undo (Undo:1760,Redo:1)
+<17:37:45> Returned: 
+<17:37:50> general.undo
+<17:37:50> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:37:50> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:37:50> Undo (Undo:1759,Redo:2)
+<17:37:50> Returned: 
+<17:38:04> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:38:09> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:38:11> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:38:13> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:38:57> general.save
+<17:38:57> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:38:57> Storing View settings...
+<17:38:57> Storing Fog settings...
+<17:38:57> Storing missions...<17:38:57> Done
+<17:38:57> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:38:57> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:38:57> Storing surface types...
+<17:38:57> Storing layer settings...
+<17:38:57> Saving Vegetation Map...
+<17:38:57> Level successfully saved
+<17:38:57> Returned: 
+<17:39:17> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:39:19> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:39:20> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:39:32> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:39:36> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:39:47> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:39:51> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:39:57> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:39:59> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:40:04>  Compile Illum@Common_ZPassVS(RT2100000)(MD1100)(VS) (44 instructions, 3 tempregs, 1/4 constants) ... 
+<17:40:04>  Compile Illum@Common_ZPrepassVS(RT2100000)(MD1100)(VS) (17 instructions, 3 tempregs, 0/0 constants) ... 
+<17:40:04>  Compile Illum@Common_SG_VS(RT1000200002100000)(MD1100)(VS) (30 instructions, 3 tempregs, 1/4 constants) ... 
+<17:40:04>  Compile Illum@Common_SG_VS(RT1100800002100000)(MD1100)(VS) (28 instructions, 3 tempregs, 1/4 constants) ... 
+<17:40:04>  Compile Illum@IlluminationVS(RT2000001)(MD1100)(VS) (67 instructions, 3 tempregs, 7/12 constants) ... 
+<17:40:07> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:40:14> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:40:32> general.open_pane 'Material Editor'
+<17:40:32> Returned: 
+<17:40:35> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:40:36> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<17:40:42> general.undo
+<17:40:42> Undo (Undo:1777,Redo:1)
+<17:40:42> Returned: 
+<17:40:44>  Compile Terrain@Common_ZPassVS(GL200000000)(RT8000002110000)(MD1100)(VS) (77 instructions, 4 tempregs, 1/4 constants) ... 
+<17:40:44>  Compile Terrain@TerrainLayerVS(GL200000000)(RT8000000040001)(MD1100)(VS) (98 instructions, 3 tempregs, 7/15 constants) ... 
+<17:40:47> general.undo
+<17:40:47> Undo (Undo:1776,Redo:2)
+<17:40:47> Returned: 
+<17:40:47> general.undo
+<17:40:47> Undo (Undo:1775,Redo:3)
+<17:40:47> Returned: 
+<17:40:47> general.undo
+<17:40:47> Undo (Undo:1774,Redo:4)
+<17:40:48> Returned: 
+<17:40:48> general.undo
+<17:40:48> Undo (Undo:1773,Redo:5)
+<17:40:48> Returned: 
+<17:40:48> general.undo
+<17:40:48> Undo (Undo:1772,Redo:6)
+<17:40:48> Returned: 
+<17:40:49> general.undo
+<17:40:49> Undo (Undo:1771,Redo:7)
+<17:40:49> Returned: 
+<17:40:49> general.undo
+<17:40:49> Undo (Undo:1770,Redo:8)
+<17:40:49> Returned: 
+<17:40:50> general.undo
+<17:40:50> Undo (Undo:1769,Redo:9)
+<17:40:50> Returned: 
+<17:40:50> general.undo
+<17:40:50> Undo (Undo:1768,Redo:10)
+<17:40:50> Returned: 
+<17:40:51> general.undo
+<17:40:51> Undo (Undo:1767,Redo:11)
+<17:40:51> Returned: 
+<17:40:52> general.undo
+<17:40:52> Undo (Undo:1766,Redo:12)
+<17:40:52> Returned: 
+<17:40:53> general.undo
+<17:40:53> Undo (Undo:1765,Redo:13)
+<17:40:53> Returned: 
+<17:40:54> general.undo
+<17:40:54> Undo (Undo:1764,Redo:14)
+<17:40:54> Returned: 
+<17:40:54> general.undo
+<17:40:54> Undo (Undo:1763,Redo:15)
+<17:40:54> Returned: 
+<17:40:54> general.undo
+<17:40:54> Undo (Undo:1762,Redo:16)
+<17:40:54> Returned: 
+<17:40:55> general.undo
+<17:40:55> Undo (Undo:1761,Redo:17)
+<17:40:55> Returned: 
+<17:40:55> general.undo
+<17:40:55> Undo (Undo:1760,Redo:18)
+<17:40:55> Returned: 
+<17:40:56> general.undo
+<17:40:56> Undo (Undo:1759,Redo:19)
+<17:40:56> Returned: 
+<17:40:56> general.undo
+<17:40:56> Undo (Undo:1758,Redo:20)
+<17:40:57> Returned: 
+<17:40:57> general.undo
+<17:40:57> Undo (Undo:1757,Redo:21)
+<17:40:57> Returned: 
+<17:40:58> general.undo
+<17:40:58> Undo (Undo:1756,Redo:22)
+<17:40:58> Returned: 
+<17:40:58> general.undo
+<17:40:58> Undo (Undo:1755,Redo:23)
+<17:40:58> Returned: 
+<17:40:59> general.undo
+<17:40:59> Undo (Undo:1754,Redo:24)
+<17:40:59> Returned: 
+<17:40:59> general.undo
+<17:40:59> Undo (Undo:1753,Redo:25)
+<17:40:59> Returned: 
+<17:41:00> general.undo
+<17:41:00> Undo (Undo:1752,Redo:26)
+<17:41:00> Returned: 
+<17:41:02> general.undo
+<17:41:02> Undo (Undo:1751,Redo:27)
+<17:41:02> Returned: 
+<17:41:02> general.undo
+<17:41:02> Undo (Undo:1750,Redo:28)
+<17:41:02> Returned: 
+<17:41:05> general.save
+<17:41:05> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:41:05> Storing View settings...
+<17:41:05> Storing Fog settings...
+<17:41:05> Storing missions...<17:41:05> Done
+<17:41:05> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:41:05> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:41:05> Storing surface types...
+<17:41:05> Storing layer settings...
+<17:41:05> Saving Vegetation Map...
+<17:41:05> Level successfully saved
+<17:41:05> Returned: 
+<17:41:10> general.save
+<17:41:10> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:41:10> Storing View settings...
+<17:41:10> Storing Fog settings...
+<17:41:10> Storing missions...<17:41:10> Done
+<17:41:10> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:41:10> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:41:10> Storing surface types...
+<17:41:10> Storing layer settings...
+<17:41:10> Saving Vegetation Map...
+<17:41:10> Level successfully saved
+<17:41:10> Returned: 
+<17:41:14> layout.load 'Editor/Layouts/Animation.json'
+<17:41:14> [Error] Failed to open path: 
+<17:41:14> [Warning] Failed to open path: 
+<17:41:14> Returned: 
+<17:41:17> layout.load 'Editor/Layouts/Level Design.json'
+<17:41:17> [Error] Failed to open path: 
+<17:41:17> [Warning] Failed to open path: 
+<17:41:17> Returned: 
+<17:41:29> general.open_pane 'Errors'
+<17:41:29> Returned: 
+<17:41:38> general.open_pane 'Modeling'
+<17:41:38> Returned: 
+<17:43:36> general.undo
+<17:43:36> Undo (Undo:1751,Redo:1)
+<17:43:36> Returned: 
+<17:43:54> Undo Object Canceled (Undo:1751,Redo:1)
+<17:43:55> Undo Object Canceled (Undo:1751,Redo:1)
+<17:44:01> Undo Object Canceled (Undo:1751,Redo:1)
+<17:44:03> ui_action.actionLock_Y_Axis
+<17:44:03> Returned: 
+<17:44:08> general.undo
+<17:44:08> Cannot Undo while Recording
+<17:44:08> Returned: 
+<17:44:11> Undo Object Canceled (Undo:1751,Redo:1)
+<17:44:14> ui_action.actionSelect_Mode
+<17:44:14> Returned: 
+<17:44:30> ui_action.actionMove
+<17:44:30> Returned: 
+<17:44:31> general.save
+<17:44:31> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:44:31> Storing View settings...
+<17:44:31> Storing Fog settings...
+<17:44:31> Storing missions...<17:44:31> Done
+<17:44:31> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:44:31> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:44:31> Storing surface types...
+<17:44:31> Storing layer settings...
+<17:44:31> Saving Vegetation Map...
+<17:44:31> Level successfully saved
+<17:44:31> Returned: 
+<17:48:26> general.undo
+<17:48:26> Undo (Undo:1806,Redo:1)
+<17:48:26> Returned: 
+<17:48:53> general.save
+<17:48:53> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:48:53> Storing View settings...
+<17:48:53> Storing Fog settings...
+<17:48:53> Storing missions...<17:48:53> Done
+<17:48:53> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:48:53> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:48:53> Storing surface types...
+<17:48:53> Storing layer settings...
+<17:48:53> Saving Vegetation Map...
+<17:48:53> Level successfully saved
+<17:48:53> Returned: 
+<17:48:58> ui_action.actionLock_XY_Axis
+<17:48:58> Returned: 
+<17:50:33> ui_action.actionSelect_Mode
+<17:50:33> Returned: 
+<17:50:42> ui_action.actionMove
+<17:50:42> Returned: 
+<17:50:48> general.undo
+<17:50:48> Undo (Undo:1831,Redo:1)
+<17:50:48> Returned: 
+<17:52:14> general.save
+<17:52:14> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:52:14> Storing View settings...
+<17:52:14> Storing Fog settings...
+<17:52:14> Storing missions...<17:52:14> Done
+<17:52:14> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:52:14> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:52:14> Storing surface types...
+<17:52:14> Storing layer settings...
+<17:52:14> Saving Vegetation Map...
+<17:52:14> Level successfully saved
+<17:52:14> Returned: 
+<17:53:14> [Error] Failed to compute texture mapping density for mesh 'RoadObjectName': faces are too small or have stretched mapping
+<17:53:19> general.undo
+<17:53:19> Undo (Undo:1854,Redo:1)
+<17:53:19> Returned: 
+<17:55:28> general.save
+<17:55:28> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<17:55:28> Storing View settings...
+<17:55:28> Storing Fog settings...
+<17:55:28> Storing missions...<17:55:28> Done
+<17:55:28> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<17:55:28> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<17:55:28> Storing surface types...
+<17:55:28> Storing layer settings...
+<17:55:28> Saving Vegetation Map...
+<17:55:28> Level successfully saved
+<17:55:28> Returned: 
+<18:04:15> ui_action.actionSelect_Mode
+<18:04:15> Returned: 
+<18:04:17> ui_action.actionMove
+<18:04:17> Returned: 
+<18:11:44> general.undo
+<18:11:44> Undo (Undo:1995,Redo:1)
+<18:11:44> Returned: 
+<18:15:13> general.save
+<18:15:13> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:15:13> Storing View settings...
+<18:15:13> Storing Fog settings...
+<18:15:13> Storing missions...<18:15:13> Done
+<18:15:13> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:15:13> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:15:13> Storing surface types...
+<18:15:13> Storing layer settings...
+<18:15:13> Saving Vegetation Map...
+<18:15:13> Level successfully saved
+<18:15:13> Returned: 
+<18:21:32> general.save
+<18:21:32> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:21:32> Storing View settings...
+<18:21:32> Storing Fog settings...
+<18:21:32> Storing missions...<18:21:32> Done
+<18:21:32> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:21:32> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:21:32> Storing surface types...
+<18:21:32> Storing layer settings...
+<18:21:32> Saving Vegetation Map...
+<18:21:32> Level successfully saved
+<18:21:32> Returned: 
+<18:32:17> general.save
+<18:32:17> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:32:17> Storing View settings...
+<18:32:17> Storing Fog settings...
+<18:32:17> Storing missions...<18:32:17> Done
+<18:32:17> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:32:17> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:32:17> Storing surface types...
+<18:32:17> Storing layer settings...
+<18:32:17> Saving Vegetation Map...
+<18:32:17> Level successfully saved
+<18:32:17> Returned: 
+<18:36:12> Undo Object Canceled (Undo:2156,Redo:0)
+<18:36:16> Undo Object Canceled (Undo:2156,Redo:0)
+<18:36:39> general.delete
+<18:36:39> Returned: 
+<18:36:41> general.delete
+<18:36:41> Returned: 
+<18:36:42> general.delete
+<18:36:42> Returned: 
+<18:36:43> general.delete
+<18:36:43> Returned: 
+<18:36:44> general.delete
+<18:36:44> Returned: 
+<18:36:45> general.delete
+<18:36:45> Returned: 
+<18:36:48> general.delete
+<18:36:48> Returned: 
+<18:37:17> general.save
+<18:37:17> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:37:17> Storing View settings...
+<18:37:17> Storing Fog settings...
+<18:37:17> Storing missions...<18:37:17> Done
+<18:37:17> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:37:17> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:37:17> Storing surface types...
+<18:37:17> Storing layer settings...
+<18:37:17> Saving Vegetation Map...
+<18:37:17> Level successfully saved
+<18:37:17> Returned: 
+<18:41:31> ui_action.actionSelect_Mode
+<18:41:31> Returned: 
+<18:41:54> general.save
+<18:41:54> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:41:54> Storing View settings...
+<18:41:54> Storing Fog settings...
+<18:41:54> Storing missions...<18:41:54> Done
+<18:41:54> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:41:54> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:41:54> Storing surface types...
+<18:41:54> Storing layer settings...
+<18:41:54> Saving Vegetation Map...
+<18:41:54> Level successfully saved
+<18:41:54> Returned: 
+<18:42:24> general.save
+<18:42:24> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:42:24> Storing View settings...
+<18:42:24> Storing Fog settings...
+<18:42:24> Storing missions...<18:42:24> Done
+<18:42:24> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:42:24> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:42:24> Storing surface types...
+<18:42:24> Storing layer settings...
+<18:42:24> Saving Vegetation Map...
+<18:42:24> Level successfully saved
+<18:42:24> Returned: 
+<18:44:06> general.save
+<18:44:06> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:44:06> Storing View settings...
+<18:44:06> Storing Fog settings...
+<18:44:06> Storing missions...<18:44:06> Done
+<18:44:06> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:44:06> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:44:06> Storing surface types...
+<18:44:06> Storing layer settings...
+<18:44:07> Saving Vegetation Map...
+<18:44:07> Level successfully saved
+<18:44:07> Returned: 
+<18:44:08> [Error] Can't save material materials/terrain/grass_1 (read-only)
+<18:44:09> CSystem::Quit invoked from thread 8124 (main is 8124)
+<18:44:09> BaseInput - Shutting down all force feedback
+<18:44:09> ActionGame - Shutting down all force feedback
+<18:44:09> [Lobby] Terminate service 0 error 4
+<18:44:09> [Lobby] Terminate service 1 error 4
+<18:44:09> Ending game context...
+<18:44:09> Destroying CActionGame instance 000000900AE61030 (level="")
+<18:44:09> Flushing pended shaders...
+<18:44:09> Finished flushing pended shaders...
+<18:44:09> System:Quit

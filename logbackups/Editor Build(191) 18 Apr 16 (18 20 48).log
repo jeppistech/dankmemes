@@ -1,0 +1,1693 @@
+BackupNameAttachment=" Build(191) 18 Apr 16 (18 20 48)"  -- used by backup system
+Log Started at Mon Apr 18 18:20:48 2016
+Built on Mar 18 2016 10:51:44
+Running 64 bit Windows version
+Executable: C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\Sandbox.exe
+FileVersion: 5.0.0.191
+ProductVersion: 5.0.0.191
+Added MOD directory <%engineroot%> to CryPak
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 8
+Number of available logical processors: 8
+Total number of system cores: 4
+Number of cores available to process: 4
+ 
+Processor 0:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+[Error] [CVARS]: [DUPLICATE] CXConsole::AddCommand(): console command [hmd_recenter_pose] is already registered
+Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\system.cfg)
+<18:20:48> OnSysSpecChange(4)
+<18:20:48> [Warning] Config file VeryHighSpec.cfg not found!
+<18:20:48> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<18:20:48> [Warning] Config file game.cfg not found!
+<18:20:48> Loading Config file project.cfg (project.cfg)
+<18:20:48> GameDir: Assets
+<18:20:48> Loading Config file game.cfg (assets\game.cfg)
+<18:20:49> creating CVarGroups from directory 'assets/Config/CVarGroups' ...
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_full.cfg (assets\config\cvargroups\sys_spec_full.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_gameeffects.cfg (assets\config\cvargroups\sys_spec_gameeffects.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_light.cfg (assets\config\cvargroups\sys_spec_light.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_objectdetail.cfg (assets\config\cvargroups\sys_spec_objectdetail.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_particles.cfg (assets\config\cvargroups\sys_spec_particles.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_physics.cfg (assets\config\cvargroups\sys_spec_physics.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_postprocessing.cfg (assets\config\cvargroups\sys_spec_postprocessing.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_quality.cfg (assets\config\cvargroups\sys_spec_quality.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_shading.cfg (assets\config\cvargroups\sys_spec_shading.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_shadows.cfg (assets\config\cvargroups\sys_spec_shadows.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_sound.cfg (assets\config\cvargroups\sys_spec_sound.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_texture.cfg (assets\config\cvargroups\sys_spec_texture.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_textureresolution.cfg (assets\config\cvargroups\sys_spec_textureresolution.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_volumetriceffects.cfg (assets\config\cvargroups\sys_spec_volumetriceffects.cfg)
+<18:20:49> Loading Config file assets/Config/CVarGroups/sys_spec_water.cfg (assets\config\cvargroups\sys_spec_water.cfg)
+<18:20:49> creating CVarGroups from directory 'Engine/Config/CVarGroups' ...
+<18:20:49> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<18:20:49> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_sandbox.thread_config)  
+<18:20:49> Windows 10 64 bit (build 10.0.10240)
+<18:20:49> User name: "Johannes"
+<18:20:49> System language: Finnish
+<18:20:49> Windows Directory: "D:\WINDOWS"
+<18:20:49> Local time is 18:20:49 04/18/16, system running for 107 minutes
+<18:20:49> 16331MB physical memory installed, 12692MB available, 134217727MB virtual memory installed, 22 percent of memory in use
+<18:20:49> PageFile usage: 46MB, Working Set: 54MB, Peak PageFile usage: 46MB,
+<18:20:49> Current display mode is 1920x1080x32, (Unknown graphics card)
+<18:20:49> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<18:20:49> --------------------------------------------------------------------------------
+<18:20:49> [Warning] Config file %USER%/game.cfg not found!
+<18:20:49> Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\system.cfg)
+<18:20:49> OnSysSpecChange(4)
+<18:20:49> Loading Config file VeryHighSpec.cfg (assets\config\veryhighspec.cfg)
+<18:20:49> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<18:20:49> Loading Config file game.cfg (assets\game.cfg)
+<18:20:49> Loading Config file project.cfg (project.cfg)
+<18:20:49> [Warning] Config file user.cfg not found!
+<18:20:49> Stream Engine Initialization
+<18:20:49> GameName: CE# SampleApp
+<18:20:49> BuildTime: Mar 18 2016 10:51:44
+<18:20:49> Physics initialization
+<18:20:49> Initializing CryPhysics...
+<18:20:49> Initializing CryPhysics done, MemUsage=964Kb
+<18:20:49> [Warning] Cannot open Pak file assets\localization\english_xml.pak
+<18:20:49> Localized language content(english) not available or modified from the original installation.
+<18:20:49> [Warning] Cannot open Pak file assets\localization\english.pak
+<18:20:49> Localized language content(english) not available or modified from the original installation.
+<18:20:49> [Warning] Cannot open Pak file assets\localization\english.pak
+<18:20:49> Localized language content(english) not available or modified from the original installation.
+<18:20:49> [Error] <Localization> No localization files found!
+<18:20:49> <Audio>: AudioSystem initialization
+<18:20:49> Initializing CryAudioSystem...
+<18:20:49> Initializing CryAudioImplWwise...
+<18:20:49> <Audio> <0.593>: CryAudioImplWwise loaded
+<18:20:49> Initializing CryAudioImplWwise done, MemUsage=4712Kb
+<18:20:49> Initializing CryAudioSystem done, MemUsage=5352Kb
+<18:20:49> Renderer initialization
+<18:20:49> Initializing CryRenderD3D11...
+<18:20:49> CRenderer sizeof(Vec2f16)=4 sizeof(Vec3f16)=8
+<18:20:49> Initializing CryRenderD3D11 done, MemUsage=3776Kb
+<18:20:49> Initializing Direct3D and creating game window:
+<18:20:49> D3DX_SDK_VERSION = <UNDEFINED>
+<18:20:49> Direct3D driver is creating...
+<18:20:49> Crytek Direct3D driver version 2.00 (Mar 18 2016 <10:51:35>)
+<18:20:49> Creating window called 'CE# SampleApp' (1280x720)
+<18:20:49> D3D Adapter: Description: AMD Radeon R9 200 Series
+<18:20:49> D3D Adapter: Driver version (UMD): 8.17.10.1452
+<18:20:49> D3D Adapter: VendorId = 0x1002
+<18:20:49> D3D Adapter: DeviceId = 0x67B0
+<18:20:49> D3D Adapter: SubSysId = 0x30801462
+<18:20:49> D3D Adapter: Revision = 0
+<18:20:49> D3D Detected: AMD video card
+<18:20:49> Active GPUs: 1
+<18:20:49> Using pixel texture formats:
+<18:20:49>   R8G8B8A8S, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R8G8B8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<18:20:49>   A8, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R8, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R8S, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R16, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<18:20:49>   R16F, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R32F, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<18:20:49>   R8G8, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R8G8S, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R16G16, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R16G16S, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R16G16F, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R11G11B10F, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R10G10B10A2, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R16G16B16A16, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R16G16B16A16S, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R16G16B16A16F, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   R32G32B32A32F, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   BC1, mips, sRGB, gather
+<18:20:49>   BC2, mips, sRGB, gather
+<18:20:49>   BC3, mips, sRGB, gather
+<18:20:49>   BC4, mips, gather
+<18:20:49>   BC4S, mips, gather
+<18:20:49>   BC5, mips, gather
+<18:20:49>   BC5S, mips, gather
+<18:20:49>   BC6UH, mips, gather
+<18:20:49>   BC6SH, mips, gather
+<18:20:49>   BC7, mips, sRGB, gather
+<18:20:49>   R9G9B9E5, mips, gather
+<18:20:49>   R32FX8T, mips, gather (comparable)
+<18:20:49>   R32T, mips
+<18:20:49>   R24G8T, mips
+<18:20:49>   R16T, mips
+<18:20:49>   B5G6R5, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   B5G5R5, mips (autogen), blend, RT (multi-sampled), gather
+<18:20:49>   B8G8R8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<18:20:49>   B8G8R8X8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<18:20:49>  Renderer HDR_Scalar: R32F
+<18:20:49>  ****** D3D11 CryRender Stats ******
+<18:20:49>  Driver description: AMD Radeon R9 200 Series
+<18:20:49>  Feature level: DirectX 11.0
+<18:20:49>  Full stats: 
+<18:20:49>  Rasterizer: Hardware
+<18:20:49>  Current Resolution: 1280x720x32 Windowed
+<18:20:49>  HDR Rendering: FP16
+<18:20:49>  Occlusion queries: Supported
+<18:20:49>  Geometry instancing: Supported
+<18:20:49>  NormalMaps compression : Supported
+<18:20:49>  Gamma control: Hardware
+<18:20:49>  Vertex Shaders version 4.0
+<18:20:49>  Pixel Shaders version 4.0
+<18:20:49>  Used GeomInstancingThreshold is 2
+<18:20:49>  Shader model usage: 'SM.5.0'
+<18:20:49>  *****************************************
+<18:20:49>  
+<18:20:49> Init Shaders
+<18:20:49> Flushing pended shaders...
+<18:20:49> Finished flushing pended shaders...
+<18:20:49> Flushing pended shaders...
+<18:20:49> Finished flushing pended shaders...
+<18:20:49>  General shader quality: VeryHigh
+<18:20:49>  Metal shader quality: VeryHigh
+<18:20:49>  Glass shader quality: VeryHigh
+<18:20:49>  Vegetation shader quality: VeryHigh
+<18:20:49>  Ice shader quality: VeryHigh
+<18:20:49>  Terrain shader quality: VeryHigh
+<18:20:49>  Shadow shader quality: VeryHigh
+<18:20:49>  Water shader quality: High
+<18:20:49>  FX shader quality: VeryHigh
+<18:20:49>  PostProcess shader quality: VeryHigh
+<18:20:49>  HDR shader quality: VeryHigh
+<18:20:49>  Sky shader quality: VeryHigh
+<18:20:49> Render quality: VeryHigh
+<18:20:49> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<18:20:49> Init textures management (4074 Mb of video memory is available)...
+<18:20:49>   Enabling of textures streaming...
+<18:20:49>   Using 1536 Mb of textures pool for streaming...
+<18:20:49>   Video textures: Atlas clouds max size: 32 Mb
+<18:20:49>   Video textures: Atlas sprites max size: 32 Mb
+<18:20:49>   Video textures: Dynamic managed max size: 80 Mb
+<18:20:49>   Reloading all textures...
+<18:20:49>   Finished reloading textures...
+<18:20:49>   Finished initializing textures streaming...
+<18:20:50> [Renderer] A display device has been connected to the system
+<18:20:50> Initialized hardware mouse (game is allowed to confine mouse to window)
+<18:20:50> Using Scaleform GFx 3.3.94
+<18:20:50>   Using dynamic pool
+<18:20:50> Font initialization
+<18:20:50> Initializing CryFont...
+<18:20:50> Using FreeType 2.5.5
+<18:20:50> Initializing CryFont done, MemUsage=260Kb
+<18:20:53> *** Init system render resources ***
+<18:20:53> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<18:20:53> Allocating shadow map cache 4214 x 4214: 33.87 MB
+<18:20:53> Network initialization
+<18:20:53> Initializing CryNetwork...
+<18:20:53> [LagProfiles] Could not load "". 6 default profiles activated.
+<18:20:53> [net] Socket IO management: External [iocp], Internal [iocp]
+<18:20:53> network hostname: Johannes-PC
+<18:20:53>   ip:192.168.1.9
+<18:20:53> [Network Version]: PROFILE DEVELOPMENT BUILD
+<18:20:53> Initializing CryNetwork done, MemUsage=2204Kb
+<18:20:53> Online initialization
+<18:20:53> Initializing CryOnline...
+<18:20:53> DLL Failed to load, error code: 7E
+<18:20:53> Lobby initialization
+<18:20:53> Initializing CryLobby...
+<18:20:53> Initializing CryLobby done, MemUsage=416Kb
+<18:20:53> MovieSystem initialization
+<18:20:53> Initializing CryMovie...
+<18:20:53> Initializing CryMovie done, MemUsage=604Kb
+<18:20:53> Console initialization
+<18:20:53> Time initialization
+<18:20:53> Input initialization
+<18:20:53> Initializing CryInput...
+<18:20:53> Initializing DirectInput
+<18:20:53> Initializing Keyboard
+<18:20:53> Initializing mouse
+<18:20:53> Initializing CryInput done, MemUsage=856Kb
+<18:20:53> AI initialization
+<18:20:53> Initializing CryAISystem...
+<18:20:53> Initializing CryAISystem done, MemUsage=1284Kb
+<18:20:53>  
+<18:20:53> con_debug=0 [  ]
+<18:20:53> con_display_last_messages=0 [  ]
+<18:20:53> con_line_buffer_size=1000 [  ]
+<18:20:53> con_restricted=0 [ RESTRICTEDMODE ]
+<18:20:53> con_showonload=0 [  ]
+<18:20:53>  
+<18:20:53> con_debug=0 [  ]
+<18:20:53> con_display_last_messages=0 [  ]
+<18:20:53> con_line_buffer_size=1000 [  ]
+<18:20:53> con_restricted=0 [ RESTRICTEDMODE ]
+<18:20:53> con_showonload=0 [  ]
+<18:20:53>  
+<18:20:53> con_debug=0 [  ]
+<18:20:53>  
+<18:20:53> con_debug=0 [  ]
+<18:20:53> Initializing Animation System
+<18:20:53> Initializing CryAnimation...
+<18:20:53> Initializing CryAnimation done, MemUsage=2188Kb
+<18:20:53> Initializing 3D Engine
+<18:20:53> Initializing Cry3DEngine...
+<18:20:53> Sky light: Optical lookup tables loaded off disc.
+<18:20:53> Initializing Cry3DEngine done, MemUsage=6796Kb
+<18:20:53> Script System Initialization
+<18:20:53> Initializing CryScriptSystem...
+<18:20:53> Initializing CryScriptSystem done, MemUsage=1132Kb
+<18:20:53> Entity system initialization
+<18:20:53> Initializing CryEntitySystem...
+<18:20:54> Initializing CryEntitySystem done, MemUsage=2500Kb
+<18:20:54> LiveCreate initialization
+<18:20:54> LiveCreateHost not created, using NULL implementation.
+<18:20:54> CryMonoBridge initialization
+<18:20:54> Initializing CryMonoBridge...
+<18:20:54> Initializing CryMonoBridge done, MemUsage=828Kb
+<18:20:54> Initializing AI System
+<18:20:54> AI: [AISYSTEM] Initialization started.
+<18:20:54> [Warning] XML reader: Can't open file (Scripts/AI/Communication/CommunicationSystemConfiguration.xml)
+<18:20:54> [Warning] AI: Failed to open XML file 'Scripts/AI/Communication/CommunicationSystemConfiguration.xml'...
+<18:20:54> [Warning] AI: Unexpected tag 'AutoGenerateCommunication' found at line 276 while parsing Communication XML 'Scripts/AI/Communication/basiccommunications.xml'...
+<18:20:54> [Warning] [Lua Error] Failed to execute file @scripts/ai/characters/aicharacter.lua: (null) [File=@scripts/ai/characters/aicharacter.lua]
+<18:20:54> AI: Loaded 54 AI Behaviors in 0.07s...
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<18:20:54> Registering CentralInterestManager with EntitySystem
+<18:20:54> AI: [AISYSTEM] Initialization finished.
+<18:20:54> Initializing additional systems
+<18:20:54> Dynamic Response System initialization
+<18:20:54> Initializing CryDynamicResponseSystem.dll...
+<18:20:54> Initializing CryDynamicResponseSystem.dll done, MemUsage=492Kb
+<18:20:54> [Warning] Could not load dialog file assets/libs/DynamicResponseSystem/DialogLines/dialoglines.dialog
+<18:20:54> OnSysSpecChange(4)
+<18:20:54> Loading Config file VeryHighSpec.cfg (assets\config\veryhighspec.cfg)
+<18:20:54> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<18:20:54> Loading Config file game.cfg (assets\game.cfg)
+<18:20:54> Current Language: Finnish 
+<18:20:54> Windows 10 10.0 (D:\WINDOWS)
+<18:20:54> Local time is 18:20:54 04/18/16, system running for 107 minutes
+<18:20:54> 16331MB phys. memory installed, 25894MB paging available
+<18:20:54> Current display mode is 1920x1080x32, (Unknown graphics card)
+<18:20:54> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<18:20:54> --------------------------------------------------------------------------------
+<18:20:55> sys_dll_game = Game
+<18:20:55> sys_game_folder = Assets
+<18:20:55> sys_localization_folder = localization
+<18:20:55> [Mono] Initialize Mono Runtime . . . 
+<18:20:55> [Mono] Initialization done.
+<18:20:55> Ending game context...
+<18:20:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<18:20:56> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<18:20:56> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<18:20:56> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<18:20:56> <Lua> Loading AIAlertness.lua
+<18:20:56> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:56>       > (null) ([C]: -1)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:56> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<18:20:56> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<18:20:56>     > ReloadScript, ([C]: -1)
+<18:20:56>     > (null) (scripts/entities/physics/animobject.lua: 1)
+<18:20:56>       > (null) ([C]: -1)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<18:20:56>     > ReloadScript, ([C]: -1)
+<18:20:56>     > (null) (scripts/entities/physics/animobject.lua: 1)
+<18:20:56> [Warning] [Lua Error] Failed to execute file @scripts/entities/physics/basicentity.lua: (null) [File=@scripts/entities/physics/basicentity.lua]
+<18:20:56> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<18:20:56>       > (null) ([C]: -1)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<18:20:56> [Warning] [Lua Error] Failed to execute file @scripts/entities/physics/basicentity.lua: (null) [File=@scripts/entities/physics/basicentity.lua]
+<18:20:56> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:56>       > (null) ([C]: -1)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:56> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<18:20:56> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:56>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:56>     > (null) (scripts/entities/vehicles/destroyedvehicle.lua: 33)
+<18:20:56>       > (null) ([C]: -1)
+<18:20:56>     > pairs, ([C]: -1)
+<18:20:57>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:57>     > (null) (scripts/entities/vehicles/destroyedvehicle.lua: 33)
+<18:20:57> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/destroyedvehicle.lua: (null) [File=@scripts/entities/vehicles/destroyedvehicle.lua]
+<18:20:57> [Warning] [Lua Error] scripts/entities/multiplayer/forbiddenarea.lua:47: attempt to index global 'GameAudio' (a nil value)
+<18:20:57>     > (null) (scripts/entities/multiplayer/forbiddenarea.lua: 47)
+<18:20:57>       > (null) ([C]: -1)
+<18:20:57>     > (null) (scripts/entities/multiplayer/forbiddenarea.lua: 47)
+<18:20:57> [Warning] [Lua Error] Failed to execute file @scripts/entities/multiplayer/forbiddenarea.lua: (null) [File=@scripts/entities/multiplayer/forbiddenarea.lua]
+<18:20:57> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:57>     > pairs, ([C]: -1)
+<18:20:57>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:57>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:57>       > (null) ([C]: -1)
+<18:20:57>     > pairs, ([C]: -1)
+<18:20:57>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:57>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:57> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<18:20:57> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:57>     > pairs, ([C]: -1)
+<18:20:57>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:57>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:57>       > (null) ([C]: -1)
+<18:20:57>     > pairs, ([C]: -1)
+<18:20:57>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:57>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:57> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<18:20:57> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:57>     > pairs, ([C]: -1)
+<18:20:57>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:57>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<18:20:57>     > ReloadScript, ([C]: -1)
+<18:20:58>     > (null) (scripts/entities/physics/rigidbodyex.lua: 1)
+<18:20:58>       > (null) ([C]: -1)
+<18:20:58>     > pairs, ([C]: -1)
+<18:20:58>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:58>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<18:20:58>     > ReloadScript, ([C]: -1)
+<18:20:58>     > (null) (scripts/entities/physics/rigidbodyex.lua: 1)
+<18:20:58> [Warning] [Lua Error] Failed to execute file @scripts/entities/physics/basicentity.lua: (null) [File=@scripts/entities/physics/basicentity.lua]
+<18:20:58> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:58>     > pairs, ([C]: -1)
+<18:20:58>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:58>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<18:20:58>     > ReloadScript, ([C]: -1)
+<18:20:58>     > (null) (scripts/entities/lights/rigidbodylight.lua: 1)
+<18:20:58>       > (null) ([C]: -1)
+<18:20:58>     > pairs, ([C]: -1)
+<18:20:58>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:58>     > (null) (scripts/entities/physics/basicentity.lua: 259)
+<18:20:58>     > ReloadScript, ([C]: -1)
+<18:20:58>     > (null) (scripts/entities/lights/rigidbodylight.lua: 1)
+<18:20:58> [Warning] [Lua Error] Failed to execute file @scripts/entities/physics/basicentity.lua: (null) [File=@scripts/entities/physics/basicentity.lua]
+<18:20:58> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:58>     > pairs, ([C]: -1)
+<18:20:58>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:58>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:58>       > (null) ([C]: -1)
+<18:20:58>     > pairs, ([C]: -1)
+<18:20:58>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:58>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:58> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<18:20:58> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:20:58>     > pairs, ([C]: -1)
+<18:20:58>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:58>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:58>       > (null) ([C]: -1)
+<18:20:58>     > pairs, ([C]: -1)
+<18:20:58>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:20:58>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:20:58> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<18:20:58> Initializing default materials...
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 199)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 190)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 342)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 82)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 1)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '1' of type 'UI:Events:Dialogs:ShowDialogAsset' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (0/28 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 6)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '6' of type 'Game:WeaponSensor' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (4/37 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 4)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '4' of type 'Game:WeaponSensor' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (0/14 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 14)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '14' of type 'Minimap:PlayerPos' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (0/40 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 60)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '60' of type 'Sound:PlaySoundUI' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (2/20 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] [flow] Trying to link an invalid node
+<18:20:58> [Warning] [flow] Trying to link an invalid node
+<18:20:58> [Warning] [flow] Trying to link an invalid node
+<18:20:58> [Warning] [flow] Trying to link an invalid node
+<18:20:58> [Warning] [flow] Trying to link an invalid node
+<18:20:58> [Error] [flow] <noname> : Can't link edge <201,IsX360> to <203,Set> - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all edges (33/42 edges) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 102)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '102' of type 'UI:Functions:Settings:GetCurrGameSettings' - FLOWGRAPH DISCARDED
+<18:20:58> [Error] [flow] <noname> : Did not load all nodes (32/46 nodes) - FLOWGRAPH DISCARDED
+<18:20:58> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 7)
+<18:20:58> [Error] [flow] <noname> : Failed to create node '7' of type 'UI:Functions:Settings:GetResolutionList' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (4/61 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 38)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '38' of type 'UI:Events:Settings:OnLevelItem' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (5/65 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 390)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '390' of type 'Multiplayer:GameOption' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (101/134 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 100)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '100' of type 'Debug:ExecuteString' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (24/58 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 101)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '101' of type 'UI:Functions:MP:GetPlayerName' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (12/54 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 172)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '172' of type 'UI:Functions:LobbyMP:LeaveGame' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (15/51 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 172)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '172' of type 'UI:Functions:LobbyMP:LeaveGame' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (12/27 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 32)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '32' of type 'UI:Functions:Game:ExitGame' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (12/47 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 98)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '98' of type 'UI:Functions:LobbyMP:SetMultiplayer' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (12/22 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 243)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '243' of type 'UI:Functions:MP:GetPlayerName' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (21/37 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 95)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '95' of type 'UI:Functions:MP:SetPlayerName' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (12/23 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 31)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '31' of type 'UI:Functions:Game:LoadLevel' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (4/26 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 12)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '12' of type 'UI:Functions:Settings:SetSound' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (7/42 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 7)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '7' of type 'UI:Functions:Settings:GetResolutionList' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (4/66 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 12)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '12' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (4/53 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 1)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '1' of type 'UI:Events:MP:PlayerJoined' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (0/30 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 39)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '39' of type 'HUD:MissionStateListener' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (0/32 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 78)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '78' of type 'HUD:BattleAreaListener' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (0/16 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 25)
+<18:20:59> [Error] [flow] <noname> : Failed to create node '25' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<18:20:59> [Error] [flow] <noname> : Did not load all nodes (11/67 nodes) - FLOWGRAPH DISCARDED
+<18:20:59> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<18:20:59> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<18:20:59> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<18:20:59> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<18:20:59> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<18:20:59> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<18:20:59> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<18:20:59> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<18:20:59> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<18:20:59> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<18:20:59> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<18:20:59> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<18:20:59> [Mono] Load Library: CryEngine.Launcher
+<18:21:00> [Mono] Launcher Initializing...
+<18:21:00> [Mono] Loaded Libraries:
+<18:21:00> [Mono]   mscorlib
+<18:21:00> [Mono]   CryEngine.Launcher
+<18:21:00> [Mono]   CryEngine.Common (In Memory)
+<18:21:00> [Mono]   CryEngine.Core
+<18:21:00> [Mono]   System
+<18:21:00> [Mono]   System.Core
+<18:21:00> [MFX] Loading FXLib 'bulletimpacts' ...
+<18:21:00> [MFX] Loading FXLib 'collisions' ...
+<18:21:00> [MFX] Loading FXLib 'destructibles' ...
+<18:21:00> [MFX] Loading FXLib 'foley' ...
+<18:21:00> [MFX] Loading FXLib 'foley_grunt' ...
+<18:21:00> [MFX] Loading FXLib 'foley_player' ...
+<18:21:00> [MFX] Loading FXLib 'footstep_grunt' ...
+<18:21:00> [MFX] Loading FXLib 'footstep_player' ...
+<18:21:00> [MFX] Loading FXLib 'footsteps' ...
+<18:21:00> [MFX] Loading FXLib 'player_fx' ...
+<18:21:00> [MFX] Loading FXLib 'tornado' ...
+<18:21:00> [MFX] Loading FXLib 'vegetation' ...
+<18:21:00> [MFX] Loading FXLib 'vehicles' ...
+<18:21:00> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 199)
+<18:21:00> [Error] [flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<18:21:00> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<18:21:00> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:00> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 190)
+<18:21:00> [Error] [flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<18:21:00> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<18:21:00> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:00> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 342)
+<18:21:00> [Error] [flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<18:21:00> [Error] [flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED
+<18:21:00> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed
+<18:21:00> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 82)
+<18:21:00> [Error] [flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<18:21:00> [Error] [flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED
+<18:21:00> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:00> -- FAIL (strcmpi( src.wrapped.c_str(), dst.wrapped.c_str()) == 0): [CryAction]:SCRCRef_Serialization_StoreString_Empty (d:\jk\mastercd13_gamesdk_release\bintemp\uber_files\cryaction\..\..\..\Code\CryEngine\CryAction\Mannequin\Tests\Test_CRCRef.cpp:59)
+<18:21:00> UnitTesting Finished Tests: 55 Succeeded: 54, Failed: 1, Time: 13.07 ms
+<18:21:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<18:21:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<18:21:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<18:21:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<18:21:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<18:21:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<18:21:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<18:21:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<18:21:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<18:21:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<18:21:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<18:21:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<18:21:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<18:21:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<18:21:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<18:21:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<18:21:00> Loading Config file singleplayer.cfg (assets\config\singleplayer.cfg)
+<18:21:01> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 199)
+<18:21:01> [Error] [flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<18:21:01> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<18:21:01> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:01> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 190)
+<18:21:01> [Error] [flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<18:21:01> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<18:21:01> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:01> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 342)
+<18:21:01> [Error] [flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<18:21:02> [Error] [flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED
+<18:21:02> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed
+<18:21:02> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 82)
+<18:21:02> [Error] [flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<18:21:02> [Error] [flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED
+<18:21:02> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:02> AI: [AISYSTEM] Initializing AI Actions.
+<18:21:02> AI: [AISYSTEM] Initializing Smart Objects.
+<18:21:02> OnSysSpecChange(2)
+<18:21:02> Loading Config file MedSpec.cfg (assets\config\medspec.cfg)
+<18:21:02> Flushing pended shaders...
+<18:21:02> Finished flushing pended shaders...
+<18:21:02> Flushing pended shaders...
+<18:21:02> Finished flushing pended shaders...
+<18:21:02> Allocating shadow map cache 2810 x 2810: 15.06 MB
+<18:21:02> Allocating shadow map cache 6324 x 6324: 76.28 MB
+<18:21:02> Allocating shadow map cache 4214 x 4214: 33.87 MB
+<18:21:02> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<18:21:02> Loading Config file game.cfg (assets\game.cfg)
+<18:21:03> Unloading all previous plugins
+<18:21:03> Loading plugins...
+<18:21:03> Successfully loaded plugin 'CryDesigner', version '1' (GUID: )
+<18:21:03> Successfully loaded plugin 'EditorPhysics', version '1' (GUID: (null))
+<18:21:03> [Warning] XML reader: Can't open file (audio\ace\config.xml)
+<18:21:03> Successfully loaded plugin 'AudioControlsEditor', version '1' (GUID: {DFA4AFF7-2C70-4B29-B736-GRH00040314})
+<18:21:03> Successfully loaded plugin 'QtConsole', version '1' (GUID: {B0E9DE33-C2E3-4506-8B63-B023327156BB})
+<18:21:03> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplFmod.dll' factory pointer (is it a Sandbox plugin?)
+<18:21:03> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplSDLMixer.dll' factory pointer (is it a Sandbox plugin?)
+<18:21:03> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplWwise.dll' factory pointer (is it a Sandbox plugin?)
+<18:21:03> Successfully loaded plugin 'DynamicResponseSystemEditor', version '1' (GUID: {DFA4AFF7-2C70-4B29-B736-GRH00290515})
+<18:21:03> Successfully loaded plugin 'EditorEnvironment', version '1' (GUID: {800BBFA9-9895-4E81-AB02-7425FD4F5554})
+<18:21:03> Successfully loaded plugin 'ParticleLibrary', version '1' (GUID: (null))
+<18:21:03> Successfully loaded plugin 'TrackView', version '1' (GUID: {7C4EB160-30AC-44C1-92D6-6D4B74B2E96B})
+<18:21:03> FBX plugin: CreatePluginInstance
+<18:21:03> Successfully loaded plugin 'FBX Exporter', version '1' (GUID: {6CD02F95-362C-4ADF-8BAE-87C6342A8027})
+<18:21:03> Successfully loaded plugin 'MeshImporter', version '1' (GUID: {4F68F679-39AD-4BB4-B5E2-8A8DD3020DC1})
+<18:21:03> Started game resource files indexing...
+<18:21:03> [CONSOLE] Executing console command 'exec autoexec.cfg'
+<18:21:03> Executing console batch file (try game,config,root): "autoexec.cfg" not found!
+<18:21:03> [CONSOLE] Executing console command 'exec editor.cfg'
+<18:21:03> Executing console batch file (try game,config,root): "editor.cfg" found in editor.cfg ...
+<18:21:03> ed_MissingAssetResolver=0 [  ]
+<18:21:03> ca_UseIMG_CAF=0 [  ]
+<18:21:03> drs_dialogSubtitles=1 [  ]
+<18:21:03> [CONSOLE] Executing console command 'exec user.cfg'
+<18:21:03> Executing console batch file (try game,config,root): "user.cfg" not found!
+<18:21:03> Loading editor preferences from: D:/Users/Johannes/AppData/Roaming/Crytek/CRYENGINE/Settings.ini
+<18:21:03> [Warning] Command 'ui_action.actionSelection_Mask' is not registered.
+<18:21:03> [Warning] Command 'ui_action.actionAIPoint_Pick_Link' is not registered.
+<18:21:03> [Warning] Command 'ui_action.actionAIPoint_Pick_Impass_Link' is not registered.
+<18:21:03> [Warning] Command 'general.fullscreen' is not registered.
+<18:21:03> [Warning] Command 'ui_action.actionTerrain_Flatten' is not registered.
+<18:21:03> [Warning] Command 'ui_action.actionTerrain_Smooth' is not registered.
+<18:21:03> [Warning] Command 'ui_action.actionEnable_file_change_monitoring' is not registered.
+<18:21:03> [Warning] Command 'general.set_config_spec 4' is not registered.
+<18:21:03> [Warning] Command 'general.set_config_spec 3' is not registered.
+<18:21:03> [Warning] Command 'general.set_config_spec 2' is not registered.
+<18:21:03> [Warning] Command 'general.set_config_spec 1' is not registered.
+<18:21:03> [Warning] Command 'general.set_config_spec 5' is not registered.
+<18:21:03> [Warning] Command 'general.set_config_spec 6' is not registered.
+<18:21:03> [Warning] Command 'general.set_config_spec 0' is not registered.
+<18:21:03> [Warning] XML reader: Can't open file (assets\audio\wwise\SoundbanksInfo.xml)
+<18:21:03> Adding for file change notifications: 'assets\'
+<18:21:03> Adding for file change notifications: '.\assets\'
+<18:21:03> Adding for file change notifications: '.\Editor\'
+<18:21:05> Flushing pended shaders...
+<18:21:05> Finished flushing pended shaders...
+<18:21:05> Flushing pended shaders...
+<18:21:05> Finished flushing pended shaders...
+<18:21:05> Flushing pended shaders...
+<18:21:05> Finished flushing pended shaders...
+<18:21:05> Flushing pended shaders...
+<18:21:05> Finished flushing pended shaders...
+<18:21:05> Remote console listening on: 4600
+<18:21:18> Task Completed: Update Local Animations
+<18:21:18> Task Completed: Clean up compiled animations
+<18:21:20> general.open
+<18:21:22> general.open_level_no_prompt 'Assets/Levels/applegate_lake/applegate_lake.cry'
+<18:21:22> Opening document Assets/Levels/applegate_lake/applegate_lake.cry
+<18:21:23> Loading from Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:21:23> Ending game context...
+<18:21:23> Destroying CActionGame instance 000000EC422A98E0 (level="")
+<18:21:23> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<18:21:23> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<18:21:23> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<18:21:23> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<18:21:23> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<18:21:23> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<18:21:23> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<18:21:23> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<18:21:23> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<18:21:23> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<18:21:23> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<18:21:23> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<18:21:23> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<18:21:23> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<18:21:23> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<18:21:23> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<18:21:23> Loading Config file singleplayer.cfg (assets\config\singleplayer.cfg)
+<18:21:25> Loading missions...
+<18:21:25> ---- Start: Load Terrain
+<18:21:25> CRGBLayer::AllocateTiles 4x4 tiles 512 => 2048x2048 texture
+<18:21:25> allocating editor height map (1024x1024)*4
+<18:21:25> ---- Start: Loading Surface Types
+<18:21:25> ---- End: Loading Surface Types (0 seconds)
+<18:21:25> ---- Start: Loading Terrain Layers Info
+<18:21:25> Loading layer settings...
+<18:21:25> Loading layer texture (engineassets/textures/grey.dds)...
+<18:21:25>   loaded editor layer 0  name='Grass' LayerID=0
+<18:21:25> Loading layer texture (textures/defaults/grey.dds)...
+<18:21:25>   loaded editor layer 1  name='Rock' LayerID=1
+<18:21:25> Loading layer texture (textures/defaults/grey.dds)...
+<18:21:25>   loaded editor layer 2  name='Underwater' LayerID=2
+<18:21:25> ---- End: Loading Terrain Layers Info (0 seconds)
+<18:21:25> ---- Start: Load Terrain
+<18:21:25> Constructing 1365 terrain nodes (0.6 MB) <18:21:25>  done in 0.00 sec
+<18:21:25> ===== Loading 0 vegetation models =====
+<18:21:25> ===== Loading 11 brush models ===== 
+<18:21:25> ===== Initializing terrain nodes ===== 
+<18:21:25> ===== Loading outdoor instances ===== 
+<18:21:25> ---- End: Load Terrain (0 seconds)
+<18:21:25> ---- Start: Process RGB Terrain Layers
+<18:21:25> ---- End: Process RGB Terrain Layers (0 seconds)
+<18:21:25> CRGBLayer::AllocateTiles 4x4 tiles 512 => 2048x2048 texture
+<18:21:25> Loading terrain layers for segment 0 ...
+<18:21:25> ---- End: Load Terrain (0 seconds)
+<18:21:25> ---- Start: Game Engine level load
+<18:21:25> Loading map 'assets/levels/applegate_lake' into engine...
+<18:21:25> ===== Loading Particle Effects =====
+<18:21:25> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 199)
+<18:21:25> [Error] [flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<18:21:26> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<18:21:26> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:26> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 190)
+<18:21:26> [Error] [flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED
+<18:21:26> [Error] [flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED
+<18:21:26> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:26> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 342)
+<18:21:26> [Error] [flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED
+<18:21:26> [Error] [flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED
+<18:21:26> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed
+<18:21:26> [Warning] [flow] Couldn't create node of type: InvalidType (node was to be 82)
+<18:21:26> [Error] [flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED
+<18:21:26> [Error] [flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED
+<18:21:26> [Warning] MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed
+<18:21:26> ---- End: Game Engine level load (0 seconds)
+<18:21:26> ---- Start: Load MaterialManager
+<18:21:26> ---- End: Load MaterialManager (0 seconds)
+<18:21:26> ---- Start: Load Particles
+<18:21:26> ---- End: Load Particles (0 seconds)
+<18:21:26> ---- Start: Load Flares
+<18:21:26> ---- End: Load Flares (0 seconds)
+<18:21:26> ---- Start: Load GameTokens
+<18:21:26> ---- End: Load GameTokens (0 seconds)
+<18:21:26> Loading View settings...
+<18:21:26> ---- Start: Load Vegetation
+<18:21:26> Loading Vegetation Map...
+<18:21:26> ---- End: Load Vegetation (0 seconds)
+<18:21:26> ---- Start: Reposition Vegetation
+<18:21:26> ---- End: Reposition Vegetation (0 seconds)
+<18:21:26> ---- Start: Updating Surface Types
+<18:21:26> Loading terrain layers for segment 0 ...
+<18:21:26> ---- End: Updating Surface Types (0 seconds)
+<18:21:26> Loading Fog settings...
+<18:21:26> ---- Start: Load Entity Archetypes Database
+<18:21:26> ---- End: Load Entity Archetypes Database (0 seconds)
+<18:21:26> ---- Start: Load Prefabs Database
+<18:21:26> ---- End: Load Prefabs Database (0 seconds)
+<18:21:26> ---- Start: Activating Mission Mission0
+<18:21:26> [Warning] XML reader: Can't open file (objects/tower2/01 - default.mtl)
+<18:21:26> [Warning] XML reader: Can't open file (objects/house1/01 - default.mtl)
+<18:21:26> [Warning] XML reader: Can't open file (objects/tower6/03 - default.mtl)
+<18:21:26> Loaded material "tower6" instead of missing "03 - Default" (file "Objects/tower6/tower6.cgf")
+<18:21:26> [Warning] XML reader: Can't open file (objects/tower1/01 - default.mtl)
+<18:21:26> [Warning] XML reader: Can't open file (objects/multistore1/01 - default.mtl)
+<18:21:26> Loaded material "multistore1" instead of missing "01 - Default" (file "Objects/multistore1/multistore1.cgf")
+<18:21:27> [Warning] XML reader: Can't open file (objects/tower7/02 - default.mtl)
+<18:21:27> Loaded material "tower7" instead of missing "02 - Default" (file "Objects/tower7/tower7.cgf")
+<18:21:27> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:21:27>     > pairs, ([C]: -1)
+<18:21:27>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:21:27>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:21:27>       > (null) ([C]: -1)
+<18:21:27>     > pairs, ([C]: -1)
+<18:21:27>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:21:27>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:21:27> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<18:21:27> [Warning] [Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+<18:21:27>     > pairs, ([C]: -1)
+<18:21:27>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:21:27>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:21:27>       > (null) ([C]: -1)
+<18:21:27>     > pairs, ([C]: -1)
+<18:21:27>     > SetupCollisionFiltering, (scripts/utils/entityutils.lua: 758)
+<18:21:27>     > (null) (scripts/entities/vehicles/vehiclepool.lua: 43)
+<18:21:27> [Warning] [Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null) [File=@scripts/entities/vehicles/vehiclepool.lua]
+<18:21:27> Init vehicle: HMMWV1 (HMMWV)
+<18:21:27> Loading CGA objects/vehicles/hmmwv/hmmwv.cga
+<18:21:27> Loading CGA objects/vehicles/hmmwv_old/hmmwv_damaged.cga
+<18:21:27> [Warning] Failed to load CGA-Object [File=objects/vehicles/hmmwv_old/hmmwv_damaged.cga]
+<18:21:27> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_anims.adb)
+<18:21:27> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_human_anims.adb)
+<18:21:27> [Warning] XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_controllerDefs.xml)
+<18:21:27> [Warning] Unknown Vehicle damage behavior: <Burn>
+<18:21:27> [Warning] Unknown Vehicle damage behavior: <Burn>
+<18:21:27> [Warning] The HitType melee is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)
+<18:21:27> [Warning] The HitType melee is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)
+<18:21:27> [Warning] Unknown Vehicle damage behavior: <Burn>
+<18:21:27> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<18:21:27> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<18:21:27> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<18:21:27> [Warning] Unknown Vehicle damage behavior: <BlowTire>
+<18:21:27> [Warning] The HitType collision is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)
+<18:21:27> [Warning] The HitType collision is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)
+<18:21:27> [Warning] Unknown Vehicle movement: <StdWheeled>
+<18:21:27> CVehicle::SetMovemement() failed to init movement <StdWheeled> on vehicle of class <HMMWV>.
+<18:21:27> CDefaultSkeleton Release: objects/vehicles/hmmwv/hmmwv.cga
+<18:21:27> [Error] [GameObject]: Couldn't activate extension HMMWV
+<18:21:27> [Error] Couldn't create entity HMMWV1: proxy 17 couldn't be initialized
+<18:21:27> Loading AI data assets/levels/applegate_lake, Mission0
+<18:21:27> --- AI: Navigation Data Loaded in  0.00 sec
+<18:21:27> [Warning] AI: Wrong BAI file version (found 6 expected 7)!! Regenerate Navigation data in the editor.
+<18:21:27> Finished Loading AI data in  0.017 secs
+<18:21:28> ---- End: Activating Mission Mission0 (1 seconds)
+<18:21:28> ---- Start: Load Level Shader Cache
+<18:21:28> ---- End: Load Level Shader Cache (0 seconds)
+<18:21:28> ---- Start: Post Load
+<18:21:28> ---- End: Post Load (0 seconds)
+<18:21:28> [LevelLoadTime] Level assets/levels/applegate_lake loaded in 3 seconds
+<18:21:28> ========================= Errors =========================
+<18:21:28>   0) [ 1]	[AI System]	AI: Wrong BAI file version (found 6 expected 7)!! Regenerate Navigation data in the editor.	 
+<18:21:28>   1) [ 1]	[Animation]	Failed to load CGA-Object	objects/vehicles/hmmwv_old/hmmwv_damaged.cga	 Object="HMMWV1"
+<18:21:28>   2) [ 2]	[Script]	[Lua Error] Failed to execute file @scripts/entities/vehicles/vehiclepool.lua: (null)	@scripts/entities/vehicles/vehiclepool.lua	 Object="HMMWV1"
+<18:21:28>   3) [ 2]	[Script]	[Lua Error] scripts/utils/entityutils.lua:758: bad argument #1 to 'pairs' (table expected, got nil)	 	 Object="HMMWV1"
+<18:21:28>   4) [ 1]	[System]	[Error] Couldn't create entity HMMWV1: proxy 17 couldn't be initialized	 	 Object="HMMWV1"
+<18:21:28>   5) [ 1]	[System]	[Error] [GameObject]: Couldn't activate extension HMMWV	 	 Object="HMMWV1"
+<18:21:28>   6) [ 1]	[System]	XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_anims.adb)	 	 Object="HMMWV1"
+<18:21:28>   7) [ 1]	[System]	XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_controllerDefs.xml)	 	 Object="HMMWV1"
+<18:21:28>   8) [ 1]	[System]	XML reader: Can't open file (Animations/Mannequin/ADB/hmmwv_human_anims.adb)	 	 Object="HMMWV1"
+<18:21:28>   9) [ 1]	[System]	XML reader: Can't open file (objects/house1/01 - default.mtl)	Objects/house1/house01.cgf	 Object="house1"
+<18:21:28>  10) [ 1]	[System]	XML reader: Can't open file (objects/multistore1/01 - default.mtl)	Objects/multistore1/multistore1.cgf	 Object="multistore1"
+<18:21:28>  11) [ 1]	[System]	XML reader: Can't open file (objects/tower1/01 - default.mtl)	Objects/tower1/tower1.cgf	 Object="tower1_1"
+<18:21:28>  12) [ 1]	[System]	XML reader: Can't open file (objects/tower2/01 - default.mtl)	Objects/tower2/tower2floor01.cgf	 Object="tower2floor1_53"
+<18:21:28>  13) [ 1]	[System]	XML reader: Can't open file (objects/tower6/03 - default.mtl)	Objects/tower6/tower6.cgf	 Object="tower6_1"
+<18:21:28>  14) [ 1]	[System]	XML reader: Can't open file (objects/tower7/02 - default.mtl)	Objects/tower7/tower7.cgf	 Object="tower7_1"
+<18:21:28>  15) [ 1]	[  Game]	MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/blood_bullet_hit.xml)==> FlowGraph->SerializeXML failed	 
+<18:21:28>  16) [ 1]	[  Game]	MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/dirt_bullet_hit.xml)==> FlowGraph->SerializeXML failed	 
+<18:21:28>  17) [ 1]	[  Game]	MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/player_death.xml)==> FlowGraph->SerializeXML failed	 
+<18:21:28>  18) [ 1]	[  Game]	MaterialFGManager on LoadFG(Libs/MaterialEffects/FlowGraphs/water_bullet_hit.xml)==> FlowGraph->SerializeXML failed	 
+<18:21:28>  19) [ 2]	[  Game]	The HitType collision is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)	 	 Object="HMMWV1"
+<18:21:28>  20) [ 2]	[  Game]	The HitType melee is not registered and was ignored while parsing DamageMultipliers (referenced in entity HMMWV1 of class HMMWV)	 	 Object="HMMWV1"
+<18:21:28>  21) [ 4]	[  Game]	Unknown Vehicle damage behavior: <BlowTire>	 	 Object="HMMWV1"
+<18:21:28>  22) [ 3]	[  Game]	Unknown Vehicle damage behavior: <Burn>	 	 Object="HMMWV1"
+<18:21:28>  23) [ 1]	[  Game]	Unknown Vehicle movement: <StdWheeled>	 	 Object="HMMWV1"
+<18:21:28>  24) [ 1]	[  Game]	[flow] <noname> : Did not load all nodes (4/5 nodes) - FLOWGRAPH DISCARDED	 
+<18:21:28>  25) [ 1]	[  Game]	[flow] <noname> : Did not load all nodes (5/8 nodes) - FLOWGRAPH DISCARDED	 
+<18:21:28>  26) [ 2]	[  Game]	[flow] <noname> : Did not load all nodes (7/10 nodes) - FLOWGRAPH DISCARDED	 
+<18:21:28>  27) [ 1]	[  Game]	[flow] <noname> : Failed to create node '190' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED	 
+<18:21:28>  28) [ 1]	[  Game]	[flow] <noname> : Failed to create node '199' of type 'Image:ScreenFader' - FLOWGRAPH DISCARDED	 
+<18:21:28>  29) [ 1]	[  Game]	[flow] <noname> : Failed to create node '342' of type 'Game:Start' - FLOWGRAPH DISCARDED	 
+<18:21:28>  30) [ 1]	[  Game]	[flow] <noname> : Failed to create node '82' of type 'Actor:LocalPlayer' - FLOWGRAPH DISCARDED	 
+<18:21:28>  31) [ 1]	[  Game]	[flow] Couldn't create node of type: InvalidType (node was to be 190)	 
+<18:21:28>  32) [ 1]	[  Game]	[flow] Couldn't create node of type: InvalidType (node was to be 199)	 
+<18:21:28>  33) [ 1]	[  Game]	[flow] Couldn't create node of type: InvalidType (node was to be 342)	 
+<18:21:28>  34) [ 1]	[  Game]	[flow] Couldn't create node of type: InvalidType (node was to be 82)	 
+<18:21:28>  35) [ 1]	[Editor]	Entity HMMWV1 Failed to Spawn (Script: HMMWV)	 	 Object="HMMWV1"
+<18:21:28>  36) [ 1]	[Editor]	Entity class HMMWV failed to load, (script: Scripts/Entities/Vehicles/VehiclePool.lua could not be loaded)	Scripts/Entities/Vehicles/VehiclePool.lua	 Object="HMMWV1"
+<18:21:28>  37) [ 1]	[Editor]	Material Objects/house1/01 - Default not found	 	 Object="house1"
+<18:21:28>  38) [ 1]	[Editor]	Material Objects/multistore1/01 - Default not found	 	 Object="multistore1"
+<18:21:28>  39) [ 1]	[Editor]	Material Objects/tower1/01 - Default not found	 	 Object="tower1_1"
+<18:21:28>  40) [ 1]	[Editor]	Material Objects/tower2/01 - Default not found	 	 Object="tower2floor1_53"
+<18:21:28>  41) [ 1]	[Editor]	Material Objects/tower6/03 - Default not found	 	 Object="tower6_1"
+<18:21:28>  42) [ 1]	[Editor]	Material Objects/tower7/02 - Default not found	 	 Object="tower7_1"
+<18:21:28>  43) [ 1]	[Editor]	Physicalized object has material (Objects/multistore1/multistore1:1) with invalid surface type.	 	 Object="multistore1"
+<18:21:28> ========================= End Errors =========================
+<18:21:28> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<18:21:28> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<18:21:28> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<18:21:28> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<18:21:28> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<18:21:28> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<18:21:28> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<18:21:28> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<18:21:28> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<18:21:28> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<18:21:28> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<18:21:28> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<18:21:28> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<18:21:28> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<18:21:28> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<18:21:28> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<18:21:28> SetGlobalState 1->11 'INIT'->'LEVEL_LOAD_TEXTURES' 39.8 seconds
+<18:21:28> -- Presort shaders by states...
+<18:21:28> --- 134 Resources, 35 Resource groups.
+<18:21:28> Requesting textures precache ...
+<18:21:28> -- Precaching textures...
+<18:21:28> Precaching progress: 1
+<18:21:29> Precaching progress: 2
+<18:21:29> Precaching progress: 3
+<18:21:29> Precaching progress: 4
+<18:21:30> Precaching progress: 5
+<18:21:30> Precaching progress: 6
+<18:21:30> Precaching progress: 7
+<18:21:30> Precaching progress: 8
+<18:21:30> Precaching progress: 9
+<18:21:31> Precaching textures done in 2.56 seconds
+<18:21:31> Textures precache done.
+<18:21:31> File access time during level loading: 3.80 seconds
+<18:21:31> -----------------------------------------------------------
+<18:21:31> Successfully opened document Assets/Levels/applegate_lake/
+<18:21:31> Level loading time: 8.77 seconds
+<18:21:31> -----------------------------------------------------------
+<18:21:31> Returned: 
+<18:21:31> Returned: 
+<18:21:31> Opening terrain\cover.ctc ...
+<18:21:31>   TerrainLayer 0: TexFormat: BC3, SectorTextureSize: 256x256, SectorTextureDataSizeBytes: 65536
+<18:21:31>   TerrainLayer 1: TexFormat: BC3, SectorTextureSize: 256x256, SectorTextureDataSizeBytes: 65536
+<18:21:31>   RGB multiplier: 1, Texture indices: 341
+<18:21:31> Loading RGB Layer Tile: TilePos=(0, 1) MemUsage=0.0MB
+<18:21:31> Loading RGB Layer Tile: TilePos=(0, 2) MemUsage=1.0MB
+<18:21:31> Loading RGB Layer Tile: TilePos=(0, 3) MemUsage=2.0MB
+<18:21:31> Loading RGB Layer Tile: TilePos=(1, 1) MemUsage=3.0MB
+<18:21:31> Loading RGB Layer Tile: TilePos=(1, 2) MemUsage=4.0MB
+<18:21:31> Loading RGB Layer Tile: TilePos=(1, 3) MemUsage=5.0MB
+<18:21:31> Loading RGB Layer Tile: TilePos=(2, 1) MemUsage=6.0MB
+<18:21:31> Loading RGB Layer Tile: TilePos=(2, 2) MemUsage=7.0MB
+<18:21:31> Loading RGB Layer Tile: TilePos=(2, 3) MemUsage=8.0MB
+<18:21:32> Loading RGB Layer Tile: TilePos=(0, 0) MemUsage=9.0MB
+<18:21:32> Loading RGB Layer Tile: TilePos=(1, 0) MemUsage=10.0MB
+<18:21:32> Loading RGB Layer Tile: TilePos=(3, 2) MemUsage=11.0MB
+<18:21:32> Loading RGB Layer Tile: TilePos=(3, 3) MemUsage=12.0MB
+<18:21:32> Loading RGB Layer Tile: TilePos=(3, 1) MemUsage=13.0MB
+<18:21:32> Loading RGB Layer Tile: TilePos=(2, 0) MemUsage=14.0MB
+<18:21:32> Loading RGB Layer Tile: TilePos=(3, 0) MemUsage=15.0MB
+<18:23:28> ui_action.actionUnfreeze_All
+<18:23:31> Returned: 
+<18:23:54> ui_action.actionSwitch_to_Game
+<18:23:54> general.enter_game_mode
+<18:23:55> Returned: 
+<18:23:55> Returned: 
+<18:23:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<18:23:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<18:23:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<18:23:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<18:23:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<18:23:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<18:23:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<18:23:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<18:23:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<18:23:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<18:23:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<18:23:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<18:23:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<18:23:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<18:23:55> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<18:23:55> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<18:23:56> [Warning] CGF Loading Failed: Failed to open file 'objects/natural/rocks/river_rocks/riverrock_big_dry_a_lod1.cgf' [File=objects/natural/rocks/river_rocks/riverrock_big_dry_a_lod1.cgf]
+<18:23:56> [Error] Failed to load cgf: objects/natural/rocks/river_rocks/riverrock_big_dry_a_lod1.cgf
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "max_distance_from_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "max_distance_from_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "isAdvantageSpotOccupied"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "isAdvantageSpotOccupied_for_puppet"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) - Invalid query "isAdvantageSpotOccupied_for_puppet"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "isAdvantageSpotOccupied"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "isAdvantageSpotOccupied_for_puppet"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) - Invalid query "isAdvantageSpotOccupied_for_puppet"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "cover_from_attentionTarget_around_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToGeneration - Invalid query "cover_from_attentionTarget_around_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToGeneration(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "cover_from_attentionTarget_around_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToGeneration - Invalid query "cover_from_attentionTarget_around_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToGeneration(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "cover_from_attentionTarget_around_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToGeneration - Invalid query "cover_from_attentionTarget_around_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToGeneration(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "cover_from_attentionTarget_around_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToGeneration - Invalid query "cover_from_attentionTarget_around_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToGeneration(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "min_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "max_distance_from_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "max_distance_from_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "myflank"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "myflank_to_attentionTarget"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) - Invalid query "myflank_to_attentionTarget"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(bool) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "max_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) - Invalid query "max_distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToConditions(float) failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<18:23:57> [Warning] AI: <TacticalPointSystem>  Unrecognised query word "battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> Invalid criterion "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights - Invalid query "distance_to_battlefront"
+<18:23:57> [Warning] AI: <TacticalPointSystem> AddToWeights failed
+<18:23:57> [Error] !AI: Error: <CScriptBind_AI> CreateQueryFromTacticalSpec(): "SDKGrunt_OpenCombat": Queries specifications must provide at least one entry in the Weights table
+<18:23:57> [Warning] !AI: Error: <CScriptBind_AI> CreateQueryFromTacticalSpec(): "SDKGrunt_OpenCombat": Queries specifications must provide at least one entry in the Weights table
+<18:23:57> [Error] !AI: Error: <CScriptBind_AI> CreateQueryFromTacticalSpec(): "SDKGrunt_CoverToShootFrom": Queries specifications must provide at least one entry in the Weights table
+<18:23:57> [Warning] !AI: Error: <CScriptBind_AI> CreateQueryFromTacticalSpec(): "SDKGrunt_CoverToShootFrom": Queries specifications must provide at least one entry in the Weights table
+<18:23:57> Pre-caching render meshes for camera position
+<18:23:57> Updating level streaming priorities for 1 cameras (LevelFrameId = 1)
+<18:23:57> -- 3445.596436 2688.851563 101.823112
+<18:23:57> SetGlobalState 11->2 'LEVEL_LOAD_TEXTURES'->'RUNNING' 148.9 seconds
+<18:24:00> general.exit_game_mode
+<18:24:00> Returned: 
+<18:24:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/Menus_Dialogs.gfx]
+<18:24:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/Menus_Dialogs.gfx]
+<18:24:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/Menus_Dialogs.gfx]
+<18:24:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/Menus_Dialogs.gfx]
+<18:24:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/EntityFlashTag.gfx]
+<18:24:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/EntityFlashTag.gfx]
+<18:24:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/EntityFlashTag.gfx]
+<18:24:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/EntityFlashTag.gfx]
+<18:24:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_2D.gfx]
+<18:24:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_2D.gfx]
+<18:24:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_2D.gfx]
+<18:24:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_2D.gfx]
+<18:24:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.gfx' [Libs/UI/HUD_3D.gfx]
+<18:24:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.gfx" [Libs/UI/HUD_3D.gfx]
+<18:24:00> [Error] <Flash> Error: GFxLoader failed to open 'localization\english_xml\HUD_Font_LocFont.swf' [Libs/UI/HUD_3D.gfx]
+<18:24:00> [Error] <Flash> GFxLoader failed to open "localization\english_xml\HUD_Font_LocFont.swf" [Libs/UI/HUD_3D.gfx]
+<18:36:36> general.save
+<18:36:36> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:36:36> Storing View settings...
+<18:36:37> Storing Fog settings...
+<18:36:37> Storing missions...<18:36:37> Done
+<18:36:37> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:36:37> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:36:37> Storing surface types...
+<18:36:37> Storing layer settings...
+<18:36:37> Saving Vegetation Map...
+<18:36:37> Level successfully saved
+<18:36:37> Returned: 
+<18:36:39> ui_action.actionUnfreeze_All
+<18:36:41> Returned: 
+<18:36:42> ui_action.actionUnfreeze_All
+<18:36:43> Returned: 
+<18:37:18> general.save
+<18:37:18> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:37:18> Storing View settings...
+<18:37:18> Storing Fog settings...
+<18:37:18> Storing missions...<18:37:18> Done
+<18:37:18> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:37:18> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:37:18> Storing surface types...
+<18:37:18> Storing layer settings...
+<18:37:18> Saving Vegetation Map...
+<18:37:18> Level successfully saved
+<18:37:18> Returned: 
+<18:37:45> general.save
+<18:37:45> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:37:45> Storing View settings...
+<18:37:45> Storing Fog settings...
+<18:37:45> Storing missions...<18:37:45> Done
+<18:37:45> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:37:45> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:37:45> Storing surface types...
+<18:37:45> Storing layer settings...
+<18:37:45> Saving Vegetation Map...
+<18:37:45> Level successfully saved
+<18:37:45> Returned: 
+<18:38:32> general.save
+<18:38:32> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:38:32> Storing View settings...
+<18:38:32> Storing Fog settings...
+<18:38:32> Storing missions...<18:38:32> Done
+<18:38:32> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:38:32> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:38:32> Storing surface types...
+<18:38:32> Storing layer settings...
+<18:38:32> Saving Vegetation Map...
+<18:38:32> Level successfully saved
+<18:38:32> Returned: 
+<18:38:49> general.save
+<18:38:49> Saving to Assets/Levels/applegate_lake/applegate_lake.cry...
+<18:38:49> Storing View settings...
+<18:38:49> Storing Fog settings...
+<18:38:49> Storing missions...<18:38:49> Done
+<18:38:49> 0 shader combination loaded for level Assets/Levels/applegate_lake
+<18:38:49> Saving pak file assets\levels\applegate_lake\applegate_lake.tmp
+<18:38:49> Storing surface types...
+<18:38:49> Storing layer settings...
+<18:38:49> Saving Vegetation Map...
+<18:38:49> Level successfully saved
+<18:38:49> Returned: 
+<18:39:04> ui_action.actionMove
+<18:39:04> Returned: 
+<CRITICAL EXCEPTION>
+Exception: 0xC0000005, at Address: 0x0033:0x00007FFD934D5B6B
+Virtual memory usage: 1556Mb
+Debug Status: 
+Last D3D debug message: No message queued. Debug runtime might be inactive or not installed.
+Removing file "error.log"...
+File successfully removed.
+Removing file "error.dmp"...
+File successfully removed.
+Exception Code: 0xC0000005
+Exception Addr: 0x0033:0x00007FFD934D5B6B
+Exception Module: <Unknown>
+Exception Name  : EXCEPTION_ACCESS_VIOLATION
+Exception Description: Attempt to write data to address 0x0000000000000024
+The memory could not be "written"
+Exception Code: 0xC0000005
+Exception Addr: 0x0033:0x00007FFD934D5B6B
+Exception Module: <Unknown>
+Exception Description: EXCEPTION_ACCESS_VIOLATION, Attempt to write data to address 0x0000000000000024
+The memory could not be "written"
+Memory in use: 1640.4MB
+Debug Status: 
+Out of Memory: 0
+MainThread Id: 2408
+RenderThread Id: 2408
+[Crashed] Thread Id: 2408
+[Crashed] ThreadName: Main
+
+[Crashed] Call Stack: ["Main" [2408]]
+
+=============================================================================
+61) function=0x00007FFD934D5B6B
+60) function=0x00007FFD934D5069
+59) function=0x00007FFD934D4F80
+58) function=0x00007FFD8D9C1E3E
+57) function=0x00007FFD61657EDC
+56) function=0x00007FFD61A5F5BE
+55) function=0x00007FFD61F33337
+54) function=0x00007FFD61A4011E
+53) function=0x00007FF6D9A92224
+52) function=0x00007FF6DA09A09F
+51) function=0x00007FF6D9104F11
+50) function=0x00007FF6D9A67E86
+49) function=0x0000000072042CC1
+48) function=0x000000007203C818
+47) function=0x0000000071945CA6
+46) function=0x0000000071944685
+45) function=0x0000000072018C38
+44) function=0x000000007205E231
+43) function=0x0000000071945CA6
+42) function=0x0000000071944685
+41) function=0x0000000072018C38
+40) function=0x000000007201A8E4
+39) function=0x00007FFD6317018F
+38) function=0x000000007205F5AC
+37) function=0x00007FFD914300DC
+36) function=0x00007FFD9142FC07
+35) function=0x000000007205EBF6
+34) function=0x00007FFD631700BE
+33) function=0x00000000720155E3
+32) function=0x0000000071AFD3B9
+31) function=0x00007FF6DA075701
+30) function=0x00007FF6D940F798
+29) function=0x00007FFD645AACDC
+28) function=0x00007FFD645A9192
+27) function=0x00007FFD6470F93D
+26) function=0x00007FFD646C5402
+25) function=0x000000007196D25C
+24) function=0x0000000071945CA6
+23) function=0x0000000071943C2E
+22) function=0x0000000072018C38
+21) function=0x0000000071947203
+20) function=0x0000000071994920
+19) function=0x0000000071992F4A
+18) function=0x0000000071945CA6
+17) function=0x0000000071944685
+16) function=0x0000000072018C38
+15) function=0x00007FFD6815C626
+14) function=0x00007FFD68143C6E
+13) function=0x000000007205F5AC
+12) function=0x00007FFD914300DC
+11) function=0x00007FFD9142FC07
+10) function=0x000000007205EBF6
+ 9) function=0x00007FFD631700BE
+ 8) function=0x00000000720155E3
+ 7) function=0x0000000072017C27
+ 6) function=0x00007FF6D9AC4384
+ 5) function=0x00007FF6DAA0B5C4
+ 4) function=0x00007FF6DA9D0752
+ 3) function=0x00007FFD90F82D92
+ 2) function=0x00007FFD934A9F64
+ 1) function=0x00007FFD934A9F64
+=============================================================================
+
+
+Call Stack: ["MainAudioThread" [9656]]
+ 9) function=0x00007FFD93533B6A
+  8) function=0x00007FFD8FF43757
+  7) function=0x00007FFD62AB20B8
+  6) function=0x00007FFD62ACD93A
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["BackgroundTask_IO" [9512]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FF6D9D41DC1
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["BackgroundTask_0" [7516]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FF6D9D41DC1
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["BackgroundTask_3" [10252]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FF6D9D41DC1
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["BackgroundTask_1" [1416]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FF6D9D41DC1
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["BackgroundTask_2" [13076]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FF6D9D41DC1
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["FileChangeMonitor" [560]]
+ 9) function=0x00007FFD93533DDA
+  8) function=0x00007FFD8FF5916F
+  7) function=0x00007FFD8FF5906E
+  6) function=0x00007FF6D9EC7CE2
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["RemoteConsoleServer" [10608]]
+10) function=0x00007FFD9353386A
+  9) function=0x00007FFD8F6892EF
+  8) function=0x00007FFD8F684264
+  7) function=0x00007FFD93063C0E
+  6) function=0x00007FFD93063CD2
+  5) function=0x00007FFD6387D2D1
+  4) function=0x00007FFD639CDA1B
+  3) function=0x00007FFD8B5E82DD
+  2) function=0x00007FFD90F82D92
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["NotificationNetwork" [6956]]
+10) function=0x00007FFD9353386A
+  9) function=0x00007FFD8F6892EF
+  8) function=0x00007FFD8F689F0D
+  7) function=0x00007FFD9305FC44
+  6) function=0x00007FFD63C163CC
+  5) function=0x00007FFD63C28E7A
+  4) function=0x00007FFD639CDA1B
+  3) function=0x00007FFD8B5E82DD
+  2) function=0x00007FFD90F82D92
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["Streaming AsyncCallback" [11608]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD638E41FF
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_0 (Blocking)" [13992]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD63A9BB4B
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["Streaming File IO HDD" [2896]]
+10) function=0x00007FFD9353386A
+  9) function=0x00007FFD8FF3415F
+  8) function=0x00007FFD639817CD
+  7) function=0x00007FFD638E7FC8
+  6) function=0x00007FFD638E1906
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["Streaming File IO Optical" [3696]]
+10) function=0x00007FFD9353386A
+  9) function=0x00007FFD8FF3415F
+  8) function=0x00007FFD639817CD
+  7) function=0x00007FFD638E7FC8
+  6) function=0x00007FFD638E1906
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["Streaming File IO InMemory" [5300]]
+10) function=0x00007FFD9353386A
+  9) function=0x00007FFD8FF3415F
+  8) function=0x00007FFD639817CD
+  7) function=0x00007FFD638E7FC8
+  6) function=0x00007FFD638E1906
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["ShaderCompile" [5364]]
+ 8) function=0x00007FFD93533B6A
+  7) function=0x00007FFD8FF43757
+  6) function=0x00007FFD61BB0943
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_0" [13392]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD63A9D1EB
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_1" [13420]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD63A9D1EB
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_2" [1136]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD63A9D1EB
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_3" [9940]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD63A9D1EB
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["PhysicsWorkerThread_0" [14032]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD62D7C5E7
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["GFxMeshCacheReset" [7312]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD63B338D9
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["NetAddressSolver" [4976]]
+ 9) function=0x00007FFD935351CA
+  8) function=0x00007FFD8FFD0008
+  7) function=0x00007FFD612EA8B4
+  6) function=0x00007FFD612821FA
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["ServiceNetwork" [4788]]
+ 8) function=0x00007FFD93533B6A
+  7) function=0x00007FFD8FF43757
+  6) function=0x00007FFD6387C074
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["InputWorker" [2208]]
+ 8) function=0x00007FFD93533B6A
+  7) function=0x00007FFD8FF43757
+  6) function=0x00007FFD60F7CF1F
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["ZLibCompressor" [5652]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD5D9E7AAD
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["Physics" [5344]]
+ 8) function=0x00007FFD9353386A
+  7) function=0x00007FFD8FF3415F
+  6) function=0x00007FFD63C287C0
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+
+
+Call Stack: ["CaptureCrashScreenShot" [4600]]
+ 9) function=0x00007FFD935351CA
+  8) function=0x00007FFD8FFD0008
+  7) function=0x00007FFD63981714
+  6) function=0x00007FFD6397B935
+  5) function=0x00007FFD639CDA1B
+  4) function=0x00007FFD8B5E82DD
+  3) function=0x00007FFD90F82D92
+  2) function=0x00007FFD934A9F64
+  1) function=0x00007FFD934A9F64
+ 
+<18:39:28> Saved dump file to 'error.dmp'
+Attempting to create error screenshot "error.jpg"
+<18:39:28>  
+<18:39:28> Screenshot: error.jpg
+<18:39:28> [Warning] Unknown command: goto
+<18:39:28>  
+<18:39:28> Drawcalls: 1
+<18:39:28> FPS: 76.9 (12.5 ms)
+<18:39:28> Tris:  0,960
+<18:39:28> CGF streaming: Loaded:14 InProg:0 All:26 Act:14 MemUsed:4.26 MemReq:4.21 PoolSize:24
+<18:39:28> TexStreaming: MemUsed:35.05MB(2%%) PoolSize:1536.00MB Trghput:2037.11KB/s
+<18:39:28> [CONSOLE] Executing console command 'sys_RestoreSpec test*'
+<18:39:28>  
+<18:39:28>    sys_spec = Custom (assuming 6)
+<18:39:28> [CVARS]: [FAIL] [sys_spec_GameEffects] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_ObjectDetail] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_Particles] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_Physics] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_PostProcessing] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_Shading] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [e_svoti_LowSpecMode] = [0] (expected [4] in group [sys_spec_shading] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_Shadows] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [Error] [CVARS]: [MISSING] [e_ShadowsOnAlphaBlend] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [2]
+<18:39:28> [CVARS]: [FAIL] [sys_spec_Sound] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_Texture] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_VolumetricEffects] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_Water] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28> [CVARS]: [FAIL] [sys_spec_light] = [2] (expected [3] in group [sys_spec_full] = [2])
+<18:39:28>  
+<18:39:28>  
+Error creating screenshot.

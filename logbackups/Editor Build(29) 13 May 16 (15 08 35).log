@@ -1,0 +1,690 @@
+BackupNameAttachment=" Build(29) 13 May 16 (15 08 35)"  -- used by backup system
+Log Started at Fri May 13 15:08:35 2016
+Built on May  9 2016 17:03:43
+Running 64 bit Windows version
+Executable: C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.1\bin\win_x64\Sandbox.exe
+FileVersion: 5.1.0.29
+ProductVersion: 5.1.0.29
+Added MOD directory <%engineroot%> to CryPak
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 8
+Number of available logical processors: 8
+Total number of system cores: 4
+Number of cores available to process: 4
+ 
+Processor 0:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD FX(tm)-8350 Eight-Core Processor           
+  Family: 15, Model: 2, Stepping: 0
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+[Error] [CVARS]: [DUPLICATE] CXConsole::AddCommand(): console command [hmd_recenter_pose] is already registered
+Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.1\system.cfg)
+<15:08:35> OnSysSpecChange(4)
+<15:08:35> [Warning] Config file VeryHighSpec.cfg not found!
+<15:08:35> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.1\editor.cfg)
+<15:08:35> [Warning] Config file game.cfg not found!
+<15:08:35> Loading Config file project.cfg (project.cfg)
+<15:08:35> GameDir: Assets
+<15:08:35> Loading Config file game.cfg (assets\game.cfg)
+<15:08:36> creating CVarGroups from directory 'assets/Config/CVarGroups' ...
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_full.cfg (assets\config\cvargroups\sys_spec_full.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_gameeffects.cfg (assets\config\cvargroups\sys_spec_gameeffects.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_light.cfg (assets\config\cvargroups\sys_spec_light.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_objectdetail.cfg (assets\config\cvargroups\sys_spec_objectdetail.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_particles.cfg (assets\config\cvargroups\sys_spec_particles.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_physics.cfg (assets\config\cvargroups\sys_spec_physics.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_postprocessing.cfg (assets\config\cvargroups\sys_spec_postprocessing.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_quality.cfg (assets\config\cvargroups\sys_spec_quality.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_shading.cfg (assets\config\cvargroups\sys_spec_shading.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_shadows.cfg (assets\config\cvargroups\sys_spec_shadows.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_sound.cfg (assets\config\cvargroups\sys_spec_sound.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_texture.cfg (assets\config\cvargroups\sys_spec_texture.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_textureresolution.cfg (assets\config\cvargroups\sys_spec_textureresolution.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_volumetriceffects.cfg (assets\config\cvargroups\sys_spec_volumetriceffects.cfg)
+<15:08:36> Loading Config file assets/Config/CVarGroups/sys_spec_water.cfg (assets\config\cvargroups\sys_spec_water.cfg)
+<15:08:36> creating CVarGroups from directory 'Engine/Config/CVarGroups' ...
+<15:08:36> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<15:08:36> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_sandbox.thread_config)  
+<15:08:36> Windows 10 64 bit (build 10.0.10240)
+<15:08:36> User name: "Johannes"
+<15:08:36> System language: Finnish
+<15:08:36> Windows Directory: "D:\WINDOWS"
+<15:08:36> Local time is 15:08:36 05/13/16, system running for 16940 minutes
+<15:08:36> 16331MB physical memory installed, 10187MB available, 134217727MB virtual memory installed, 37 percent of memory in use
+<15:08:36> PageFile usage: 48MB, Working Set: 58MB, Peak PageFile usage: 48MB,
+<15:08:36> Current display mode is 1920x1080x32, (Unknown graphics card)
+<15:08:36> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<15:08:36> --------------------------------------------------------------------------------
+<15:08:36> [Warning] Config file %USER%/game.cfg not found!
+<15:08:36> Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.1\system.cfg)
+<15:08:36> OnSysSpecChange(4)
+<15:08:36> Loading Config file VeryHighSpec.cfg (assets\config\veryhighspec.cfg)
+<15:08:36> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.1\editor.cfg)
+<15:08:36> Loading Config file game.cfg (assets\game.cfg)
+<15:08:36> Loading Config file project.cfg (project.cfg)
+<15:08:36> [Warning] Config file user.cfg not found!
+<15:08:36> Stream Engine Initialization
+<15:08:36> GameName: CE# SampleApp
+<15:08:36> BuildTime: May  9 2016 17:03:43
+<15:08:36> Physics initialization
+<15:08:36> Initializing CryPhysics...
+<15:08:36> Initializing CryPhysics done, MemUsage=840Kb
+<15:08:36> [Warning] Cannot open Pak file assets\localization\english_xml.pak
+<15:08:36> Localized language content(english) not available or modified from the original installation.
+<15:08:36> [Warning] Cannot open Pak file assets\localization\english.pak
+<15:08:36> Localized language content(english) not available or modified from the original installation.
+<15:08:36> [Warning] Cannot open Pak file assets\localization\english.pak
+<15:08:36> Localized language content(english) not available or modified from the original installation.
+<15:08:36> [Error] <Localization> No localization files found!
+<15:08:36> <Audio>: AudioSystem initialization
+<15:08:36> Initializing CryAudioSystem...
+<15:08:36> Initializing CryAudioImplSDLMixer...
+<15:08:36> <Audio> <1.122>: CryAudioImplSDLMixer loaded
+<15:08:37> Initializing CryAudioImplSDLMixer done, MemUsage=5080Kb
+<15:08:37> Initializing CryAudioSystem done, MemUsage=5672Kb
+<15:08:37> Renderer initialization
+<15:08:37> Initializing CryRenderD3D11...
+<15:08:37> CRenderer sizeof(Vec2f16)=4 sizeof(Vec3f16)=8
+<15:08:37> Initializing CryRenderD3D11 done, MemUsage=4060Kb
+<15:08:37> Initializing Direct3D and creating game window:
+<15:08:37> D3DX_SDK_VERSION = <UNDEFINED>
+<15:08:37> Direct3D driver is creating...
+<15:08:37> Crytek Direct3D driver version 2.00 (May  9 2016 <17:03:47>)
+<15:08:37> Creating window called 'CE# SampleApp' (1280x720)
+<15:08:37> D3D Adapter: Description: AMD Radeon R9 200 Series
+<15:08:37> D3D Adapter: Driver version (UMD): 8.17.10.1452
+<15:08:37> D3D Adapter: VendorId = 0x1002
+<15:08:37> D3D Adapter: DeviceId = 0x67B0
+<15:08:37> D3D Adapter: SubSysId = 0x30801462
+<15:08:37> D3D Adapter: Revision = 0
+<15:08:37> D3D Detected: AMD video card
+<15:08:37> Active GPUs: 1
+<15:08:37> Using pixel texture formats:
+<15:08:37>   R8G8B8A8S, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R8G8B8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<15:08:37>   A8, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R8, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R8S, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R16, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<15:08:37>   R16F, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R32F, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<15:08:37>   R8G8, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R8G8S, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R16G16, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R16G16S, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R16G16F, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R11G11B10F, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R10G10B10A2, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R16G16B16A16, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R16G16B16A16S, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R16G16B16A16F, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   R32G32B32A32F, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   BC1, mips, sRGB, gather
+<15:08:37>   BC2, mips, sRGB, gather
+<15:08:37>   BC3, mips, sRGB, gather
+<15:08:37>   BC4, mips, gather
+<15:08:37>   BC4S, mips, gather
+<15:08:37>   BC5, mips, gather
+<15:08:37>   BC5S, mips, gather
+<15:08:37>   BC6UH, mips, gather
+<15:08:37>   BC6SH, mips, gather
+<15:08:37>   BC7, mips, sRGB, gather
+<15:08:37>   R9G9B9E5, mips, gather
+<15:08:37>   R32FX8T, mips
+<15:08:37>   R32T, mips
+<15:08:37>   R24G8T, mips
+<15:08:37>   R16T, mips
+<15:08:37>   B5G6R5, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   B5G5R5, mips (autogen), blend, RT (multi-sampled), gather
+<15:08:37>   B8G8R8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<15:08:37>   B8G8R8X8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<15:08:37>  Renderer HDR_Scalar: R32F
+<15:08:37>  ****** D3D11 CryRender Stats ******
+<15:08:37>  Driver description: AMD Radeon R9 200 Series
+<15:08:37>  Feature level: DirectX 11.0
+<15:08:37>  Full stats: 
+<15:08:37>  Rasterizer: Hardware
+<15:08:37>  Current Resolution: 1280x720x32 Windowed
+<15:08:37>  HDR Rendering: FP16
+<15:08:37>  Occlusion queries: Supported
+<15:08:37>  Geometry instancing: Supported
+<15:08:37>  NormalMaps compression : Supported
+<15:08:37>  Gamma control: Hardware
+<15:08:37>  Vertex Shaders version 4.0
+<15:08:37>  Pixel Shaders version 4.0
+<15:08:37>  Used GeomInstancingThreshold is 2
+<15:08:37>  Shader model usage: 'SM.5.0'
+<15:08:37>  *****************************************
+<15:08:37>  
+<15:08:37> Init Shaders
+<15:08:37> Flushing pended shaders...
+<15:08:37> Finished flushing pended shaders...
+<15:08:37> Flushing pended shaders...
+<15:08:37> Finished flushing pended shaders...
+<15:08:37>  General shader quality: VeryHigh
+<15:08:37>  Metal shader quality: VeryHigh
+<15:08:37>  Glass shader quality: VeryHigh
+<15:08:37>  Vegetation shader quality: VeryHigh
+<15:08:37>  Ice shader quality: VeryHigh
+<15:08:37>  Terrain shader quality: VeryHigh
+<15:08:37>  Shadow shader quality: VeryHigh
+<15:08:37>  Water shader quality: High
+<15:08:37>  FX shader quality: VeryHigh
+<15:08:37>  PostProcess shader quality: VeryHigh
+<15:08:37>  HDR shader quality: VeryHigh
+<15:08:37>  Sky shader quality: VeryHigh
+<15:08:37> Render quality: VeryHigh
+<15:08:37> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<15:08:37> Init textures management (4074 Mb of video memory is available)...
+<15:08:37>   Enabling of textures streaming...
+<15:08:37>   Using 1536 Mb of textures pool for streaming...
+<15:08:37>   Video textures: Atlas clouds max size: 32 Mb
+<15:08:37>   Video textures: Atlas sprites max size: 32 Mb
+<15:08:37>   Video textures: Dynamic managed max size: 80 Mb
+<15:08:37>   Reloading all textures...
+<15:08:37>   Finished reloading textures...
+<15:08:37>   Finished initializing textures streaming...
+<15:08:40> [Renderer] A display device has been connected to the system
+<15:08:40> Initialized hardware mouse (game is allowed to confine mouse to window)
+<15:08:40> Initializing CryScaleformHelper...
+<15:08:40> Initializing CryScaleformHelper done, MemUsage=4Kb
+<15:08:40> Using Scaleform GFx 3.3.94
+<15:08:40>   Using dynamic pool
+<15:08:40> Font initialization
+<15:08:40> Initializing CryFont...
+<15:08:40> Using FreeType 2.5.5
+<15:08:40> Initializing CryFont done, MemUsage=168Kb
+<15:08:42> *** Init system render resources ***
+<15:08:42> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<15:08:42> Allocating shadow map cache 4214 x 4214: 33.87 MB
+<15:08:42> Network initialization
+<15:08:42> Initializing CryNetwork...
+<15:08:42> [LagProfiles] Could not load "". 6 default profiles activated.
+<15:08:42> [net] Socket IO management: External [iocp], Internal [iocp]
+<15:08:42> network hostname: Johannes-PC
+<15:08:42>   ip:192.168.1.2
+<15:08:42> [Network Version]: PROFILE DEVELOPMENT BUILD
+<15:08:42> Initializing CryNetwork done, MemUsage=2188Kb
+<15:08:42> Online initialization
+<15:08:42> Initializing CryOnline...
+<15:08:42> DLL Failed to load, error code: 7E
+<15:08:42> Lobby initialization
+<15:08:42> Initializing CryLobby...
+<15:08:42> Initializing CryLobby done, MemUsage=384Kb
+<15:08:42> MovieSystem initialization
+<15:08:42> Initializing CryMovie...
+<15:08:42> Initializing CryMovie done, MemUsage=532Kb
+<15:08:42> Console initialization
+<15:08:42> Time initialization
+<15:08:42> Input initialization
+<15:08:42> Initializing CryInput...
+<15:08:42> Initializing DirectInput
+<15:08:43> Initializing Keyboard
+<15:08:43> Initializing mouse
+<15:08:43> Initializing CryInput done, MemUsage=920Kb
+<15:08:43> AI initialization
+<15:08:43> Initializing CryAISystem...
+<15:08:43> Initializing CryAISystem done, MemUsage=1276Kb
+<15:08:43>  
+<15:08:43> con_debug=0 [  ]
+<15:08:43> con_display_last_messages=0 [  ]
+<15:08:43> con_line_buffer_size=1000 [  ]
+<15:08:43> con_restricted=0 [ RESTRICTEDMODE ]
+<15:08:43> con_showonload=0 [  ]
+<15:08:43>  
+<15:08:43> con_debug=0 [  ]
+<15:08:43> con_display_last_messages=0 [  ]
+<15:08:43> con_line_buffer_size=1000 [  ]
+<15:08:43> con_restricted=0 [ RESTRICTEDMODE ]
+<15:08:43> con_showonload=0 [  ]
+<15:08:43>  
+<15:08:43> con_debug=0 [  ]
+<15:08:43>  
+<15:08:43> con_debug=0 [  ]
+<15:08:43> Initializing Animation System
+<15:08:43> Initializing CryAnimation...
+<15:08:43> Initializing CryAnimation done, MemUsage=2136Kb
+<15:08:43> Initializing 3D Engine
+<15:08:43> Initializing Cry3DEngine...
+<15:08:43> Sky light: Optical lookup tables loaded off disc.
+<15:08:43> Initializing Cry3DEngine done, MemUsage=6588Kb
+<15:08:43> Script System Initialization
+<15:08:43> Initializing CryScriptSystem...
+<15:08:43> Initializing CryScriptSystem done, MemUsage=1012Kb
+<15:08:43> Entity system initialization
+<15:08:43> Initializing CryEntitySystem...
+<15:08:44> Initializing CryEntitySystem done, MemUsage=2272Kb
+<15:08:44> LiveCreate initialization
+<15:08:44> LiveCreateHost not created, using NULL implementation.
+<15:08:44> CryMonoBridge initialization
+<15:08:44> Initializing CryMonoBridge...
+<15:08:44> Initializing CryMonoBridge done, MemUsage=680Kb
+<15:08:44> Initializing AI System
+<15:08:44> AI: [AISYSTEM] Initialization started.
+<15:08:44> [Warning] XML reader: Can't open file (Scripts/AI/Communication/CommunicationSystemConfiguration.xml)
+<15:08:44> [Warning] AI: Failed to open XML file 'Scripts/AI/Communication/CommunicationSystemConfiguration.xml'...
+<15:08:44> [Warning] AI: Unexpected tag 'AutoGenerateCommunication' found at line 276 while parsing Communication XML 'Scripts/AI/Communication/basiccommunications.xml'...
+<15:08:44> [Warning] [Lua Error] Failed to execute file @scripts/ai/characters/aicharacter.lua: (null) [File=@scripts/ai/characters/aicharacter.lua]
+<15:08:44> AI: Loaded 54 AI Behaviors in 0.11s...
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> [Warning] AI: <CScriptBind_AI> AddFormationPointFixed: this function is deprecated as it doesn't allow to specify a follow-distance (a follow distance is be required to smoothly follow the formation) - use AddFormationPoint() instead
+<15:08:44> Registering CentralInterestManager with EntitySystem
+<15:08:44> AI: [AISYSTEM] Initialization finished.
+<15:08:44> Initializing additional systems
+<15:08:44> Dynamic Response System initialization
+<15:08:44> Initializing CryDynamicResponseSystem...
+<15:08:44> Initializing CryDynamicResponseSystem done, MemUsage=472Kb
+<15:08:44> [Warning] Could not load dialog file assets/libs/DynamicResponseSystem/DialogLines/dialoglines.dialog
+<15:08:44> failed to find CVar: r_ProfileShaders
+<15:08:44> failed to find CVar: sys_flash_info
+<15:08:44> failed to find CVar: r_showmt
+<15:08:44> OnSysSpecChange(4)
+<15:08:44> Loading Config file VeryHighSpec.cfg (assets\config\veryhighspec.cfg)
+<15:08:44> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.1\editor.cfg)
+<15:08:44> Loading Config file game.cfg (assets\game.cfg)
+<15:08:45> Current Language: Finnish 
+<15:08:45> Windows 10 10.0 (D:\WINDOWS)
+<15:08:45> Local time is 15:08:45 05/13/16, system running for 16940 minutes
+<15:08:45> 16331MB phys. memory installed, 21328MB paging available
+<15:08:45> Current display mode is 1920x1080x32, (Unknown graphics card)
+<15:08:45> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<15:08:45> --------------------------------------------------------------------------------
+<15:08:46> sys_dll_game = Game
+<15:08:46> sys_game_folder = Assets
+<15:08:46> sys_localization_folder = localization
+<15:08:47>     ----- CallStack (Frame: 0) -----
+<CRITICAL EXCEPTION>
+Exception: 0xC0000005, at Address: 0x0033:0x00007FF8C3973DC3
+Virtual memory usage: 1123Mb
+Debug Status: 
+Last D3D debug message: No message queued. Debug runtime might be inactive or not installed.
+Removing file "error.log"...
+File successfully removed.
+Removing file "error.dmp"...
+File successfully removed.
+Exception Code: 0xC0000005
+Exception Addr: 0x0033:0x00007FF8C3973DC3
+Exception Module: <Unknown>
+Exception Name  : EXCEPTION_ACCESS_VIOLATION
+Exception Description: Attempt to read from address 0x0000000000000000
+The memory could not be "read"
+Exception Code: 0xC0000005
+Exception Addr: 0x0033:0x00007FF8C3973DC3
+Exception Module: <Unknown>
+Exception Description: EXCEPTION_ACCESS_VIOLATION, Attempt to read from address 0x0000000000000000
+The memory could not be "read"
+Memory in use: 1123.8MB
+Debug Status: 
+Out of Memory: 0
+MainThread Id: 1940
+RenderThread Id: 1940
+[Crashed] Thread Id: 1940
+[Crashed] ThreadName: Main
+
+[Crashed] Call Stack: ["Main" [1940]]
+
+=============================================================================
+13) function=0x00007FF8C3973DC3
+12) function=0x00007FF8C3958647
+11) function=0x00007FF8C3957ED0
+10) function=0x00007FF8C39571F1
+ 9) function=0x00007FF6402519E1
+ 8) function=0x00007FF63F33973B
+ 7) function=0x00007FF63F339D51
+ 6) function=0x00007FF63FCE1443
+ 5) function=0x00007FF640C526D4
+ 4) function=0x00007FF640C17872
+ 3) function=0x00007FF908672D92
+ 2) function=0x00007FF90AF39F64
+ 1) function=0x00007FF90AF39F64
+=============================================================================
+
+
+Call Stack: ["NotificationNetwork" [11372]]
+10) function=0x00007FF90AFC386A
+  9) function=0x00007FF9071192EF
+  8) function=0x00007FF907119F0D
+  7) function=0x00007FF90A9FFC44
+  6) function=0x00007FF8C9B7F85C
+  5) function=0x00007FF8C9B9239A
+  4) function=0x00007FF8C993773B
+  3) function=0x00007FF902F282DD
+  2) function=0x00007FF908672D92
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["Streaming AsyncCallback" [12488]]
+ 8) function=0x00007FF90AFC386A
+  7) function=0x00007FF907B9415F
+  6) function=0x00007FF8C985507F
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["Streaming File IO HDD" [6732]]
+10) function=0x00007FF90AFC386A
+  9) function=0x00007FF907B9415F
+  8) function=0x00007FF8C98EE2CD
+  7) function=0x00007FF8C9858E48
+  6) function=0x00007FF8C9852786
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["Streaming File IO Optical" [6044]]
+10) function=0x00007FF90AFC386A
+  9) function=0x00007FF907B9415F
+  8) function=0x00007FF8C98EE2CD
+  7) function=0x00007FF8C9858E48
+  6) function=0x00007FF8C9852786
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["Streaming File IO InMemory" [9096]]
+10) function=0x00007FF90AFC386A
+  9) function=0x00007FF907B9415F
+  8) function=0x00007FF8C98EE2CD
+  7) function=0x00007FF8C9858E48
+  6) function=0x00007FF8C9852786
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_0 (Blocking)" [13596]]
+ 8) function=0x00007FF90AFC386A
+  7) function=0x00007FF907B9415F
+  6) function=0x00007FF8C9A0584B
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_1" [16032]]
+ 8) function=0x00007FF90AFC386A
+  7) function=0x00007FF907B9415F
+  6) function=0x00007FF8C9A06EDB
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_0" [5724]]
+ 8) function=0x00007FF90AFC386A
+  7) function=0x00007FF907B9415F
+  6) function=0x00007FF8C9A06EDB
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["ShaderCompile" [15772]]
+ 8) function=0x00007FF90AFC3B6A
+  7) function=0x00007FF907BA3757
+  6) function=0x00007FF8C785CD53
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_2" [9276]]
+ 8) function=0x00007FF90AFC386A
+  7) function=0x00007FF907B9415F
+  6) function=0x00007FF8C9A06EDB
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["JobSystem_Worker_3" [5684]]
+ 8) function=0x00007FF90AFC386A
+  7) function=0x00007FF907B9415F
+  6) function=0x00007FF8C9A06EDB
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["GFxMeshCacheReset" [16108]]
+ 8) function=0x00007FF90AFC386A
+  7) function=0x00007FF907B9415F
+  6) function=0x00007FF8C9AAC479
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["NetAddressSolver" [4084]]
+ 9) function=0x00007FF90AFC51CA
+  8) function=0x00007FF907C30008
+  7) function=0x00007FF8C6A84CF4
+  6) function=0x00007FF8C6A2179A
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["ServiceNetwork" [5464]]
+ 8) function=0x00007FF90AFC3B6A
+  7) function=0x00007FF907BA3757
+  6) function=0x00007FF8C97ED414
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["InputWorker" [13400]]
+ 8) function=0x00007FF90AFC3B6A
+  7) function=0x00007FF907BA3757
+  6) function=0x00007FF8C671264F
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["ZLibCompressor" [10524]]
+ 8) function=0x00007FF90AFC386A
+  7) function=0x00007FF907B9415F
+  6) function=0x00007FF8C354AC1D
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["MainAudioThread" [10556]]
+ 9) function=0x00007FF90AFC3B6A
+  8) function=0x00007FF907BA3757
+  7) function=0x00007FF8C81DB9D8
+  6) function=0x00007FF8C81F6E4A
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+
+
+Call Stack: ["CaptureCrashScreenShot" [16024]]
+ 9) function=0x00007FF90AFC51CA
+  8) function=0x00007FF907C30008
+  7) function=0x00007FF8C98EE214
+  6) function=0x00007FF8C98E8425
+  5) function=0x00007FF8C993773B
+  4) function=0x00007FF902F282DD
+  3) function=0x00007FF908672D92
+  2) function=0x00007FF90AF39F64
+  1) function=0x00007FF90AF39F64
+ 
+<15:08:49> Saved dump file to 'error.dmp'
+Attempting to create error screenshot "error.jpg"
+<15:08:49>  
+<15:08:49> Screenshot: error.jpg
+<15:08:50> [Warning] Unknown command: goto
+<15:08:50>  
+<15:08:50> Drawcalls: 0
+<15:08:50> FPS: 0.0 (0.0 ms)
+<15:08:50> Tris:  0,000
+<15:08:50> CGF streaming: Loaded:0 InProg:0 All:0 Act:0 MemUsed:0.00 MemReq:0.00 PoolSize:24
+<15:08:50> TexStreaming: MemUsed:0.00MB(0%%) PoolSize:1536.00MB Trghput:0.00KB/s
+<15:08:50> [CONSOLE] Executing console command 'sys_RestoreSpec test*'
+<15:08:50>  
+<15:08:50>    sys_spec = 4
+<15:08:50>  
+<15:08:50>  
+Successfully created screenshot.
